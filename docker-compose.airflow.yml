@@ -1,0 +1,73 @@
+version: "3.8"
+
+x-airflow-common: &airflow-common
+  build:
+    context: .
+    dockerfile: Dockerfile.airflow
+  env_file:
+    - .env
+  environment:
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__FERNET_KEY: "wLhjTxdZuR76GAgReYwRwhBWoOOrOEAMo37Rhcw4m6s="
+    AIRFLOW__WEBSERVER__SECRET_KEY: "wLhjTxdZuR76GAgReYwRwhBWoOOrOEAMo37Rhcw4m6s="
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:admin@postgres:5432/claims_forecasting
+  volumes:
+    - ./airflow/dags:/opt/airflow/dags
+    - ./airflow/sql:/opt/airflow/sql
+    - ./scripts:/opt/airflow/scripts
+    - ./data:/opt/airflow/data
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on:
+    - postgres
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: claims_pg
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: claims_forecasting
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./data/cleaned:/app/cleaned
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin_ui
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@local.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "8080:80"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    depends_on:
+      - postgres
+
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow_webserver
+    ports:
+      - "8088:8080"
+    command: webserver
+
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow_scheduler
+    command: scheduler
+
+  airflow-triggerer:
+    <<: *airflow-common
+    container_name: airflow_triggerer
+    command: triggerer
+
+volumes:
+  pg_data:
+  pgadmin_data:

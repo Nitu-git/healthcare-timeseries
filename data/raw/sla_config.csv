@@ -1,0 +1,13 @@
+region,claim_type,sla_threshold_min,sla_claims_per_day
+North,Auto,120,9
+North,Health,180,15
+North,Property,120,7
+South,Auto,120,16
+South,Health,120,18
+South,Property,120,19
+East,Auto,60,19
+East,Health,60,11
+East,Property,120,19
+West,Auto,120,7
+West,Health,120,5
+West,Property,120,15

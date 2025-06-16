@@ -1,0 +1,1378 @@
+claim_id,date,region,claim_type,priority_flag,processing_time_min,status,claim_amount,policyholder_age
+f0fd8067-b386-4a59-bbae-d5df095aeb6d,2023-01-01,West,Auto,True,101,Open,6371.65,41
+ea41ccfb-2fe7-4a62-b44f-4e1e0fec1155,2023-01-01,East,Health,True,221,Open,6557.33,75
+b065d93d-0478-40b0-81d0-5c5eabfd9e2c,2023-01-01,South,Auto,False,78,In Review,6506.68,59
+487a67d7-3a08-484d-83fb-c2be5967e80c,2023-01-01,West,Property,False,204,Closed,2797.06,72
+d40bc82b-9c09-487a-a3fb-909142475e78,2023-01-01,West,Auto,True,164,Open,5054.49,35
+2bf6691b-9fa8-4fa5-b5c0-733cca3a4d95,2023-01-01,West,Auto,False,271,Closed,3741.52,70
+ef9dc1f6-f2a2-48e2-9550-bdc4d2f5de3e,2023-01-01,South,Property,False,293,In Review,2560.28,53
+e89b016a-efe7-4503-9e0f-32c609601be0,2023-01-01,South,Health,False,83,Closed,6109.3,80
+abfb9bd1-eaa2-4af9-a57f-0b025740a456,2023-01-01,South,Health,False,231,Closed,9339.93,65
+b98c86e6-2df1-4a55-9c79-af90c85a8bca,2023-01-01,East,Health,True,219,Open,4498.1,70
+514f5a2c-cf4c-44b0-8c18-034bda07414d,2023-01-01,West,Health,False,217,Open,2268.32,32
+983ec6ce-b23b-4e0e-9efd-6c46bb4186bc,2023-02-01,North,Property,False,158,In Review,8339.15,25
+aa14c50e-3daa-40ba-982f-d6f843448a28,2023-02-01,East,Property,False,290,Closed,4226.19,58
+1c4f265f-d859-45ad-845e-50a5040a4724,2023-02-01,West,Property,False,297,Closed,1858.69,40
+ec24895e-a427-4980-964a-5531734073ef,2023-02-01,South,Auto,False,243,In Review,6051.19,64
+f0fd66aa-eef6-4e7d-882a-072421b619ca,2023-02-01,South,Property,False,247,In Review,7938.7,44
+97022a13-df72-4d17-ae4e-4bba968bb03c,2023-03-01,East,Property,True,208,In Review,9061.87,69
+18312dc3-85c6-4de2-add1-81d1f6522bc8,2023-03-01,North,Health,True,260,Open,5858.57,46
+797970b6-7068-4cfa-8441-ccb931d5379e,2023-03-01,West,Auto,True,216,In Review,2450.99,83
+0ff9a8cd-c475-4456-a958-c61a6b5abcc0,2023-03-01,South,Auto,False,163,Closed,8949.52,79
+4163ac6a-d0a3-49d3-8000-76d1b196eac6,2023-03-01,North,Auto,False,150,Open,8746.58,44
+56af0652-eaee-4329-9295-713f3ecec258,2023-03-01,North,Health,False,263,In Review,2514.62,49
+c039527b-1fca-4975-b1f4-d0fff5cd6611,2023-03-01,West,Auto,False,81,Closed,7266.74,20
+5da16d70-383c-4e3e-97cc-b4f678f1e6f3,2023-03-01,North,Auto,False,110,In Review,6486.08,19
+703e504a-88f5-4b83-8a1e-982c06801eb3,2023-03-01,West,Health,True,253,Open,6709.16,19
+3dda18df-c724-4256-9424-9e89ee705971,2023-03-01,North,Health,False,276,In Review,7854.58,34
+3a890c85-08ff-4f55-afe1-ee954cfc6cf9,2023-03-01,East,Health,False,127,Closed,4589.42,33
+4af33953-427a-4883-aca1-b1761f00af30,2023-03-01,North,Auto,False,288,In Review,2982.17,84
+33d5275a-e8de-4263-9dce-64490d153a75,2023-03-01,East,Property,False,228,Open,7218.44,56
+487d298f-ef22-4484-98fb-279cf96c54c6,2023-04-01,West,Auto,False,180,In Review,8896.05,24
+25e89cda-a004-4934-b2cf-de644116a204,2023-04-01,West,Health,False,89,Open,3176.67,65
+0b8b085d-e304-4abb-a520-505441162041,2023-04-01,South,Auto,False,38,Open,4142.89,65
+1cff64b1-4f96-4ae7-9a90-c3e45da983d2,2023-04-01,West,Property,False,83,Open,6778.28,53
+199e828b-b5bb-4078-9e2a-10fa7f8ec684,2023-04-01,South,Health,True,128,Open,1045.55,83
+738f82fa-9320-4960-8cd6-13af48bd5a6c,2023-04-01,South,Property,False,198,Open,1162.68,31
+24af972e-e720-4dea-83aa-6f588af339f4,2023-05-01,West,Property,False,157,Open,5882.86,76
+165be0a6-f858-47b8-b982-e4fbd7be6b81,2023-05-01,East,Health,False,267,Closed,9757.09,68
+652c0ec9-d232-4213-b4cc-aa20e5b8dc59,2023-05-01,South,Property,False,126,In Review,5432.66,78
+da2028f9-b8bc-4b44-81ac-5d18d02b8f01,2023-05-01,West,Property,False,221,Open,1392.43,61
+c4431b58-47da-496e-ad84-00dcfff67ddd,2023-05-01,West,Health,False,35,In Review,7729.47,54
+0318f158-1110-444c-bfa1-e87ea188298a,2023-05-01,West,Auto,False,210,In Review,9672.58,80
+78fbd071-b1d0-4cac-af6a-5d3605ef9ca4,2023-05-01,North,Auto,True,190,In Review,2525.43,42
+d684352b-2c8a-48ed-a957-4344da01e5bc,2023-05-01,South,Property,False,203,Closed,6535.07,40
+9623591d-85c3-4b0b-bcbf-84444075a68a,2023-05-01,South,Property,False,133,Open,2229.59,65
+58d7bf58-6320-4d35-a800-e06c2877d0da,2023-06-01,North,Health,False,42,Closed,1046.66,53
+0cb95653-2553-464f-a06a-0ed549ebd83a,2023-06-01,North,Auto,True,171,In Review,4041.96,83
+1969473e-e5fc-44bf-b1e5-162ab3094b50,2023-06-01,West,Property,False,80,Open,2395.37,79
+a3947db7-331e-47a1-a864-2037c9b648bd,2023-06-01,North,Health,False,209,Closed,8403.41,71
+fe782e85-5d20-4bf7-b32e-c40425d6096f,2023-06-01,East,Auto,False,82,Open,5115.39,23
+a3e12ff2-78b2-42b4-b7db-8fb95a620a99,2023-06-01,North,Health,False,173,Open,9725.83,47
+a5b915d6-3198-4726-9ce3-aff934aa38f2,2023-06-01,East,Auto,False,121,Closed,1706.11,79
+d2198366-bf9e-4bba-bc70-89e9de425fa4,2023-06-01,East,Property,False,158,Closed,9236.92,51
+97f8fa6a-1abe-450e-9cd2-094d31269056,2023-06-01,West,Health,True,118,Open,3519.41,33
+47b58102-5153-4b77-b096-6380f914a8f7,2023-06-01,North,Property,False,98,Closed,7570.35,84
+43b3b5ba-7e2d-4cad-bcba-db2ce3b79cb0,2023-06-01,West,Health,False,115,Open,4076.92,64
+98406781-8aff-406b-a2ed-3838b6eaa0d0,2023-07-01,South,Health,False,233,Closed,7870.28,56
+05380487-7278-4378-8c1c-fe83354a0d60,2023-07-01,West,Auto,False,52,Closed,6542.65,51
+c32233e2-5a40-4802-9727-044cb159966a,2023-07-01,West,Property,True,176,Closed,5509.36,21
+7f0b39b6-84ac-4a34-a34e-3f03ab6e2e6a,2023-07-01,West,Property,False,189,In Review,8208.54,29
+8ae33fa5-571e-4068-bcc5-93ebb0a130ae,2023-07-01,South,Property,False,208,In Review,9473.18,84
+a1f18b60-7a45-4228-bebc-354b0260ac25,2023-08-01,North,Health,False,41,In Review,4395.33,52
+9fc71f21-1e89-4a90-98d7-59e96fbb8d8c,2023-08-01,East,Auto,False,122,Closed,7134.52,51
+4c9f2967-a7bf-495a-9eaf-83dbbe5924cb,2023-08-01,East,Auto,False,143,Open,9429.83,53
+b7c64bc2-0b71-402c-b09e-f71844c67ffe,2023-08-01,North,Auto,False,193,Closed,4811.24,41
+2eaeb713-fcef-40f0-bab5-9c7d7e3b7499,2023-08-01,West,Property,False,65,Closed,3250.15,41
+69adbf22-0133-4471-9a86-60b6434b635b,2023-09-01,South,Auto,False,212,Open,7659.18,47
+92dcb2bd-a8ac-4b51-92b0-18fa59b4b56f,2023-09-01,North,Auto,False,246,Closed,3678.72,36
+968c31cf-8649-49ac-bad6-970d87638b93,2023-09-01,North,Auto,False,105,Open,3873.82,69
+20cb8941-9691-4d6b-a0d6-df848e747344,2023-09-01,East,Health,False,98,In Review,6421.97,69
+e08dc994-7363-4647-9842-6f47ca6daa0b,2023-09-01,East,Auto,False,180,Open,2021.18,70
+850b8d81-684c-4ddd-9369-976489a74450,2023-09-01,South,Health,True,252,Closed,4973.77,35
+5a797c37-7459-4358-b6f0-a9e9664a82e3,2023-09-01,East,Auto,False,282,Closed,1756.96,30
+64dd0b4e-3e02-4ba2-ac74-49cb17cdf20b,2023-09-01,West,Health,False,151,Closed,1732.14,54
+19d2ccce-672e-4d6a-851d-0a579be6c738,2023-09-01,South,Property,False,174,In Review,9169.24,62
+c9021260-371b-4513-b152-d7f32a0c587f,2023-09-01,West,Health,False,211,In Review,4818.0,36
+7d2ea586-25de-401f-bca7-43326648fc0d,2023-09-01,East,Health,False,170,Closed,5217.95,75
+a2ea0e06-d647-4dd5-9f70-40152fbf7797,2023-10-01,West,Auto,False,30,In Review,6250.32,79
+1c7335f9-136b-4279-9b1a-53c8b87fe97e,2023-10-01,North,Property,False,146,Closed,8218.98,62
+f6081deb-58ab-4d0e-a22a-1c327a63b17c,2023-10-01,West,Auto,True,178,Closed,9321.79,53
+89995259-1b91-4c3a-b32a-3263e6600287,2023-10-01,East,Property,False,76,Open,2951.28,32
+bb07db13-82d3-4a01-a732-24e868892769,2023-10-01,East,Auto,False,288,In Review,1409.02,29
+23ec154f-c039-4d30-b5f9-a719361c84f3,2023-10-01,South,Health,False,185,Open,3496.43,53
+6aa6768b-18ef-425a-a539-e7ae35a0ade1,2023-10-01,South,Health,False,57,Open,9769.55,81
+5bc7935e-d7e4-4145-be11-5b30e64c5e25,2023-10-01,East,Health,True,230,Open,4700.86,46
+7e2feed0-cc7d-4c5e-89d7-1747bfcc3431,2023-11-01,North,Health,False,285,Open,6520.74,83
+1e5ee581-4e52-4379-bb4e-7fe3bcfcf80d,2023-11-01,South,Health,False,34,In Review,4701.3,82
+87bf7510-5ddc-4f41-b8a9-12bd9d26e260,2023-11-01,South,Property,True,92,Open,9729.23,44
+6c3286db-9265-44c9-8b3e-5f95d39b0a52,2023-11-01,North,Auto,True,134,In Review,2204.67,38
+b516a144-d1f1-4ddc-8247-69974ef385ad,2023-11-01,West,Property,False,226,In Review,7749.2,20
+62752aa3-a778-4830-8a84-e00bb16b9f1e,2023-11-01,North,Property,False,194,Closed,8646.83,34
+cc09c081-e97a-4357-beec-430e226bac4c,2023-11-01,North,Health,False,30,In Review,3472.59,21
+c2bc87c6-7684-45f0-b163-37bd919bbe0b,2023-12-01,North,Health,False,101,In Review,7044.16,51
+3fc9e07a-ff52-467e-a0fd-15dcb6e616b4,2023-12-01,South,Health,False,297,Open,5967.16,22
+4032368e-a27a-4daa-806b-04370ab813ee,2023-12-01,South,Health,False,141,In Review,1259.04,31
+4c2c312b-e070-4d88-96bd-cb5765a29191,2023-12-01,South,Property,False,221,Closed,4155.29,47
+8c203ab2-8742-496c-8107-f9ec8c74e8de,2023-12-01,East,Property,True,278,Closed,5058.19,47
+165b32de-835c-4f52-83ed-9e2662980a0a,2023-01-02,East,Auto,False,65,Closed,8253.93,18
+2b278e44-f1c4-494d-8180-ccfa486dcddb,2023-01-02,West,Auto,False,170,In Review,6741.87,38
+bfe65910-fc76-46f9-b851-46d7f50af8a4,2023-01-02,South,Auto,False,39,Closed,4246.95,59
+b5d56692-0972-4519-a5b1-2e6d43904b62,2023-01-02,West,Auto,False,97,Closed,7587.62,77
+fb49c538-597a-42ed-9124-7c5660d65d6d,2023-01-02,East,Health,False,193,Closed,5065.91,64
+2478fce8-7f34-4023-aa6a-7ea65e828ed1,2023-01-02,North,Property,False,190,In Review,5818.22,39
+17e55e6d-9f7e-4ab9-b1bd-f27d4524b430,2023-01-02,West,Auto,False,189,In Review,3087.52,74
+59af92f8-288f-4b80-bbb9-87973d22f567,2023-01-02,South,Auto,False,292,Open,7082.57,59
+4ff7ab68-043c-4bda-bc7a-5d3a499066e8,2023-01-02,South,Auto,False,270,In Review,9921.3,77
+f16ec9f5-d5cd-4e1d-ab2a-9d34af70f394,2023-01-02,South,Property,False,131,Closed,9149.72,53
+e2fd677a-ab97-4d5e-ba5d-4cca484085ba,2023-01-02,West,Auto,False,102,Open,3039.91,58
+19d2abc5-7f52-475e-af74-a748a3fc091e,2023-02-02,West,Auto,False,159,Open,1629.38,49
+ac9d97e2-0b9e-4437-b5a0-cb9f4d703a15,2023-02-02,North,Health,False,96,Closed,3077.46,75
+20eb3799-d5e6-4ba5-8fc5-b17d5ba1d111,2023-02-02,East,Health,False,244,Closed,4266.5,52
+9d109c61-9d5d-4e94-afa2-45bfda8825bd,2023-02-02,South,Property,False,293,Closed,6060.67,53
+a0b47ed4-0c90-4e9b-8326-d072bb6660d7,2023-02-02,North,Auto,False,237,Closed,1870.09,72
+1a6a8a26-a728-4e75-8eea-ef43b5e209bc,2023-02-02,West,Auto,False,165,In Review,9344.6,40
+a7600416-aaba-45cb-8bc8-8ebd194dc5b3,2023-02-02,West,Property,True,34,Open,8578.3,38
+8d7133cb-b1a4-4276-a2a1-2d7552346a7f,2023-02-02,West,Health,False,260,Open,6476.38,55
+49dfa91f-3cba-4352-9334-c5f35792ceb6,2023-02-02,West,Health,True,180,Closed,4075.07,19
+067c69ff-b66a-40ab-b8aa-80fcda821c2f,2023-02-02,East,Auto,False,209,Closed,5024.82,72
+4df20ec3-cf0e-455f-b1aa-b05f6254a270,2023-02-02,South,Property,False,172,Closed,6099.18,29
+4dbb3b29-4a8b-4030-b25a-1749a50fbb26,2023-03-02,South,Health,False,187,Closed,8812.51,23
+7c5abade-1d92-4795-990d-3d470b972362,2023-03-02,East,Property,False,102,In Review,4626.82,83
+b6c30d6f-9fbe-42f3-a671-153a46eb28f0,2023-03-02,East,Health,False,235,Closed,6768.75,42
+89eee928-aa75-4e6e-bc20-7857840406cd,2023-03-02,South,Auto,False,193,In Review,5383.56,71
+31d8ffad-3297-41ab-ac5f-d413c5785d83,2023-03-02,South,Auto,False,54,Open,4307.81,25
+2d2f5c14-a8d9-4037-8552-612cdb1d6c4c,2023-04-02,South,Auto,False,202,Open,9428.04,37
+9939739c-5fda-480a-94de-e11c7460e33f,2023-04-02,South,Auto,True,189,Open,1159.19,19
+e190fb9a-8ff4-4c38-ab4c-eddd53a9c62c,2023-04-02,West,Property,True,34,In Review,2726.04,19
+886cf58f-33d8-4f3f-8f33-f9392140f2a5,2023-04-02,South,Property,False,85,In Review,9853.11,26
+5384eef9-71ae-47bc-a70f-725ee4701671,2023-04-02,East,Auto,True,219,Closed,1909.41,33
+38927a31-871c-4d66-ab37-4a6c382a99a1,2023-04-02,West,Auto,False,132,Open,3093.81,69
+2e45fc22-fc4a-4c66-86bb-b51b55651014,2023-04-02,North,Health,False,92,Open,8979.44,79
+be789473-597b-44c8-a935-2fb3d7e1c118,2023-04-02,West,Auto,False,184,Closed,8447.84,22
+4f8526f1-8ad2-4888-b673-b91a12071002,2023-04-02,South,Property,False,248,Open,1172.73,38
+49166817-92a0-489e-b69b-4c9228af73b4,2023-05-02,East,Health,True,94,Open,1109.09,70
+1842baee-2aca-4d51-aa9e-ce72da4e06b7,2023-05-02,South,Auto,False,193,Open,1987.63,77
+1d352fef-9de9-4e94-9266-8b77186cbbea,2023-05-02,East,Property,False,285,In Review,2343.14,51
+4f201c30-2222-4bca-99b0-b3e3fe9958ab,2023-05-02,West,Health,False,262,Open,4550.29,55
+79e1546a-e9d8-48ed-a9f3-e71a0edb5bfc,2023-05-02,South,Auto,False,142,Open,1919.35,26
+be39ba08-47e0-4c4f-b692-43b6eaecba8c,2023-05-02,North,Auto,False,77,Open,3514.31,75
+8c26af7e-437e-40e2-a7fa-9aa0144d05c8,2023-05-02,West,Auto,False,276,Closed,4477.14,66
+99545611-2ac6-41a6-aadf-140e8a49eb64,2023-05-02,East,Auto,True,202,In Review,1951.24,61
+3aa2f67e-9397-4522-a2cb-fdc481aab71e,2023-05-02,North,Property,False,229,Open,7715.87,18
+cdfc1f99-6cae-4541-86e1-0118671ed9dc,2023-05-02,North,Property,True,181,Open,9608.51,38
+416f4c49-6d46-450d-8092-4141fab02ef3,2023-05-02,West,Health,False,257,In Review,9736.75,24
+5f161ce8-0aef-4c40-a7d9-99f296535c23,2023-05-02,East,Property,True,290,Open,6942.72,25
+2fb795a7-7bbe-4580-b1d7-73b19863ff34,2023-05-02,West,Health,True,249,Open,3659.0,42
+2beebf4f-1c80-4de3-ad10-8b4855b7720d,2023-05-02,North,Health,False,78,Closed,3346.42,58
+af0d47ed-6a4d-431d-affb-f9abb1d2db4d,2023-06-02,South,Property,True,295,Open,2127.1,19
+3dbcf67a-36d4-4a78-b07a-ee12c59beec9,2023-06-02,South,Auto,False,255,In Review,1393.62,34
+ad64cf21-ba8a-45c7-8f64-128ad98f6dc1,2023-06-02,West,Health,False,182,In Review,5950.83,39
+002396fc-4b59-452d-90c0-9d1f5a1cb7d0,2023-06-02,West,Health,False,201,In Review,8982.32,38
+655f91f7-7e36-4920-ae40-b2378d788417,2023-06-02,East,Health,False,148,In Review,8618.63,64
+3084ff22-dee8-4ecb-a61b-d3f7ad4531b5,2023-06-02,South,Auto,False,178,Closed,8577.99,24
+1f0fe956-5f2f-4999-b1e8-168d91ebee52,2023-06-02,East,Property,False,179,In Review,3423.98,46
+4c2cd8cc-d29f-47b1-b7fa-520acda82879,2023-06-02,North,Health,True,242,In Review,1826.84,67
+1f480d0b-7657-4a23-8a4e-0ce28c9f1b46,2023-06-02,East,Property,False,117,Open,4720.75,54
+3620aace-eb78-44ba-804b-ef726f8508c1,2023-06-02,North,Auto,False,220,Closed,6085.2,46
+aaecb997-6967-4ec4-82ce-6c340e5127bb,2023-06-02,South,Property,False,157,Open,2440.64,75
+b54a8267-23ed-44b0-8977-e4e315a5aeac,2023-06-02,West,Auto,False,32,Open,3501.12,81
+3ae57c54-0388-45b9-b158-bdce47eddc80,2023-06-02,South,Health,False,39,Open,7597.64,44
+e7fbe82e-3a2c-4a0d-9917-f3b693db7709,2023-07-02,North,Auto,False,115,Closed,7848.92,71
+f4a82011-6312-4f32-b4d5-895974880639,2023-07-02,West,Auto,True,150,Closed,7828.09,37
+4ebb1678-95c7-40cf-b8ef-ae8b4b9ad782,2023-07-02,East,Property,False,99,In Review,9967.01,21
+6999f79e-119a-4589-9005-2b779d7520f5,2023-07-02,East,Auto,False,53,Closed,6337.4,54
+4125c3a6-d4b0-4c88-b4b1-0ee315b49870,2023-07-02,South,Auto,True,231,Closed,2501.97,77
+0db3108c-b198-4851-aba9-9ab0a5834b40,2023-07-02,North,Auto,True,148,In Review,5328.76,31
+cab2658e-9c34-48a1-a826-56c58288ee26,2023-08-02,West,Auto,False,84,Closed,5379.38,47
+c532d0f6-30b6-40aa-8afa-04dfc1069df5,2023-08-02,South,Property,False,89,In Review,5484.3,39
+2bb7d246-dbaa-4ef9-aa55-fa015d5d4b8c,2023-08-02,West,Auto,False,146,In Review,8426.18,36
+2c60b9b3-c4a6-4d77-9f15-60acd33b4780,2023-08-02,West,Auto,True,212,Open,4906.17,35
+85620b57-05f0-4fb1-87bf-03f7980c3007,2023-08-02,East,Auto,False,280,In Review,9985.13,62
+cef992fb-1042-4589-a4b0-3b599865d08f,2023-08-02,North,Auto,False,177,In Review,2065.03,64
+4b23d180-9ca1-4e97-a6ea-c454da59c4e0,2023-08-02,South,Property,False,119,Open,2660.29,78
+25d9ffc1-8d74-4949-8c30-e096152564d7,2023-09-02,South,Property,True,142,Closed,8485.27,68
+b7027be9-85e1-48cd-8775-0d7bc6c92094,2023-09-02,North,Property,False,98,Open,5155.6,66
+0de01477-645b-4053-8f26-0d4f8204704b,2023-09-02,North,Health,False,99,Closed,1725.41,56
+48d69987-1413-4d7b-a70c-b55ee8aa5f84,2023-09-02,South,Property,False,129,Closed,1515.52,63
+7a8940a3-be76-45ab-b7a1-27458f1bc9e4,2023-09-02,West,Auto,False,181,Open,9609.53,47
+c83e4b53-428e-4ccf-8699-f623d4698e93,2023-09-02,West,Health,False,249,In Review,3222.81,31
+c71d3a2c-b785-4807-8cde-44ede79fa0fd,2023-09-02,West,Health,False,211,In Review,5047.66,61
+f9bc8ebb-05b7-4cfe-9d78-d5f7cf9edf8f,2023-09-02,North,Auto,False,136,Closed,9157.94,74
+41e9dffd-5917-4174-a564-4c4c5f255ac6,2023-09-02,North,Health,False,36,Closed,9098.5,49
+1bf4cee3-ac12-4697-b8ff-bac494c1c5ea,2023-09-02,West,Property,False,172,In Review,4541.03,43
+f6905234-c32e-489a-9c65-0cb2141225c2,2023-09-02,West,Health,False,50,Closed,2304.69,54
+100ec6f6-f014-4bc4-9669-a3ea8e075178,2023-09-02,West,Auto,False,190,Closed,7480.07,50
+23ca1fd8-04c9-4696-b46a-781c73b4c2a3,2023-09-02,North,Auto,False,57,Closed,5882.91,56
+6441be65-089c-49f5-9321-5328566d700c,2023-09-02,South,Auto,False,227,Closed,5362.27,22
+0409ae41-327c-4753-a920-2fe97427304b,2023-10-02,South,Auto,False,127,In Review,6858.76,57
+03623803-a5bd-4cb9-a8f7-3f86679f760a,2023-10-02,South,Property,False,221,In Review,8076.5,81
+cabdb9c2-6229-4893-999b-399b68ed7c12,2023-10-02,West,Property,False,183,In Review,7825.83,32
+315005a5-f6a0-4c2a-80b0-91e31fe25217,2023-10-02,West,Auto,False,145,Closed,3149.17,57
+186643b6-1395-44fa-8347-abbbe56a388d,2023-10-02,South,Health,False,95,Open,1847.37,20
+ce82bece-0dd5-4463-88f8-1ac1fede7692,2023-10-02,West,Auto,False,256,Closed,4347.39,40
+fe37533c-5e4e-4dda-b442-699db540f1da,2023-11-02,East,Health,True,226,In Review,2760.48,29
+357e15b0-f3be-447d-acf9-e93d62e7ba7b,2023-11-02,South,Auto,False,114,In Review,6784.07,32
+89bfd9c3-1fd7-43ad-912a-873ab147e778,2023-11-02,West,Health,False,71,Closed,8139.35,24
+03077966-6e65-4261-8d39-4e5bbdf6e696,2023-11-02,West,Property,False,143,In Review,9851.69,50
+89ceacf8-27c6-41da-9c0c-4d9b988a48c2,2023-11-02,West,Auto,True,37,Open,7593.72,65
+17af7632-add7-42f3-a0ba-27a81af734f3,2023-11-02,East,Auto,False,275,In Review,8941.75,29
+ba0b65b2-1a42-4773-8d4f-ac41ede633a3,2023-11-02,East,Health,False,158,In Review,5368.23,38
+a8d33b88-cdb6-403a-ad77-40e4c6fb6df7,2023-11-02,South,Auto,False,131,Closed,4847.41,44
+1ee53344-a9dd-4630-a1d7-6f841901a2a2,2023-11-02,North,Auto,True,225,Open,8406.63,43
+bcc8abe0-b341-4e19-9d75-16e0293949a2,2023-11-02,South,Health,False,218,Open,3668.41,67
+4ab42741-f6f5-4bef-9e8b-ec8ee9bc969d,2023-11-02,South,Property,False,242,Closed,8373.3,47
+ec8a08eb-e3ca-4bb1-bec2-2d3ad8dac39b,2023-11-02,South,Auto,True,247,Closed,7471.7,52
+96faf074-1d48-4d41-b40f-756c6b6597ac,2023-11-02,West,Health,False,104,Open,4919.55,39
+2dba8e7d-32d9-4251-be83-c90704089048,2023-12-02,North,Property,False,241,Open,7085.6,83
+d5473ec0-1b9f-4f92-b8f7-917a38ce000a,2023-12-02,East,Property,True,230,Open,8533.37,80
+9233911b-0c6f-436d-8e7d-3ddb9ea49c99,2023-12-02,East,Health,False,172,In Review,1616.55,74
+d4dc8634-35fe-4d15-a2ee-d5258285bd1f,2023-12-02,North,Auto,False,171,Open,7894.58,23
+432608c3-3c9d-4172-8e64-e952b4a709bf,2023-12-02,East,Property,False,120,Closed,5023.5,55
+f7fd4dd6-fc61-4b45-95b3-8ced2e4abd31,2023-01-03,North,Health,False,248,Open,4578.51,20
+77e70b1d-b26c-4f4c-9cab-97b3a9b53e1f,2023-01-03,South,Health,False,237,Closed,3587.15,55
+5d3f8546-83e3-4914-b4a3-48764c37b56d,2023-01-03,South,Health,False,248,Open,9329.7,37
+bab46303-6f8b-4ac2-9f35-4d0e84c1a38d,2023-01-03,East,Auto,True,137,In Review,6612.84,83
+7927224b-68bc-4da7-bcc5-9b5953383c2e,2023-01-03,South,Auto,True,163,In Review,6072.94,65
+a856a424-11bc-498b-b98a-14ac9dc5289f,2023-01-03,South,Auto,False,88,Closed,8794.86,82
+33403b31-b65b-4a8c-bb43-e709abdce16e,2023-01-03,East,Health,False,108,In Review,7628.82,65
+0ea32990-ee4f-4652-8359-34a51d7ce002,2023-01-03,North,Property,False,127,Closed,7121.01,45
+ec6dff19-0c5f-4ca2-bf42-d511803c806a,2023-01-03,North,Auto,False,36,Open,5877.91,18
+5a685088-9921-4750-a9f1-9e8678afd621,2023-01-03,South,Auto,False,135,Closed,9793.06,34
+c712832f-c745-46ab-a6c2-23a1bfb397cd,2023-01-03,South,Health,False,207,In Review,9010.51,42
+7bf156e6-8597-4cec-937b-bde0324b9acc,2023-01-03,West,Property,False,122,In Review,7511.03,43
+0a0c686a-2565-4a52-85f1-8b9e1471165f,2023-01-03,East,Auto,False,70,Closed,7307.81,57
+69a31fc4-7e48-4f79-89a8-4cd17ca70925,2023-02-03,North,Auto,False,76,In Review,4203.74,60
+94b5d8cd-4318-44bb-8283-856ac89c8c53,2023-02-03,West,Health,True,90,Closed,7594.6,75
+ab9b6085-c8dd-428f-a4ec-ad9c148ac2c6,2023-02-03,North,Property,False,123,In Review,8546.43,55
+ac61d7ff-7c4b-4742-8c32-1a6791bd9c5f,2023-02-03,East,Property,False,106,Closed,4577.03,82
+a8177e3c-d4e9-4237-9865-89198384311b,2023-02-03,East,Property,False,208,Closed,4340.02,23
+c6196d3d-0abf-497b-9888-e71966639e15,2023-02-03,East,Auto,False,211,Open,6998.17,73
+3f5dc583-a90d-4f93-996e-889bb2aa0e4f,2023-02-03,East,Auto,False,87,In Review,6741.59,57
+177e6fc9-fbb7-4194-9185-b48e2d1c7121,2023-02-03,West,Health,False,66,In Review,1576.06,80
+4c6a1783-db6f-4682-8107-4b23285081f5,2023-02-03,South,Property,False,234,Closed,5523.68,78
+38abf163-201f-4cc1-b9b9-7baaa1df6b55,2023-02-03,East,Health,True,236,Open,7879.97,55
+09f61bcf-a7ae-4244-8f8f-d70c8bebeb3f,2023-02-03,South,Auto,False,67,Open,2444.16,22
+732e1d99-6582-44cf-b458-5052dc66344a,2023-03-03,South,Auto,False,138,In Review,7166.21,52
+5e499951-257d-4b76-a25a-00e3e60aa25c,2023-03-03,West,Auto,True,169,In Review,5635.05,40
+cad9265b-c8ab-4925-9a30-348879e5607d,2023-03-03,North,Auto,False,81,Open,8453.05,63
+b237961c-9f3d-427c-b21c-64c51119f05f,2023-03-03,West,Property,False,65,Closed,4189.82,75
+3a02aef4-0db9-4221-845b-e6c21c60058a,2023-03-03,East,Auto,False,166,Closed,5980.34,52
+2ac91209-5667-4455-a701-fb6f64891b0c,2023-04-03,South,Auto,False,116,Open,4103.03,84
+115178f6-a1bf-48d4-9efa-4f371e9e5d7c,2023-04-03,South,Auto,True,268,Open,4699.84,49
+372bb5c8-166b-4803-aa92-5127a656bf7a,2023-04-03,South,Property,False,74,Open,7665.64,83
+6d14b5c8-40cf-4d35-88ee-e89d69dc9c0c,2023-04-03,North,Health,False,123,Closed,5872.33,47
+5f0516fd-50fd-434f-bbb6-057fff4cba9b,2023-04-03,North,Health,True,151,Closed,6711.75,53
+654216d0-e910-4036-8afb-00d47c53bba0,2023-04-03,South,Auto,False,40,Closed,2502.38,64
+650dd415-10b8-453e-b742-5f662cc46dac,2023-04-03,South,Property,False,181,In Review,6011.91,64
+e3a0f275-53bc-4094-af4b-a58219d20928,2023-04-03,North,Health,False,224,Closed,4706.78,82
+6acc5d8d-9a2c-4605-b37b-04bf6048af6b,2023-04-03,North,Health,False,170,Closed,6178.68,65
+89a60d93-23c1-4515-9d94-b1f59147af3e,2023-04-03,East,Auto,False,274,Open,4034.86,43
+02e08ad8-2f8c-4d36-b96e-159314c8c68e,2023-04-03,North,Property,True,36,Closed,5570.25,70
+3ee20f4b-9cb9-401d-9f04-65cf4767cb9c,2023-05-03,North,Health,False,54,In Review,5268.3,46
+0307001c-ec8f-407b-95b9-09335e65ba3b,2023-05-03,North,Property,False,173,Open,7581.85,73
+5cdd5c54-435a-4b71-8dec-80d965774558,2023-05-03,North,Auto,False,147,Open,5784.2,46
+0f6625de-3f58-47f4-bd59-d48e10ea77f8,2023-05-03,East,Property,False,168,Open,4687.65,74
+f9feb174-a075-4333-bb20-1d30527eaee6,2023-05-03,West,Health,False,77,Closed,1602.76,39
+a7ef3be9-6d30-416f-bf4e-c4ebadc4f8ab,2023-06-03,West,Property,False,249,Open,9835.37,83
+1f185cc7-b396-4521-b6dc-cec5a7024fa4,2023-06-03,North,Auto,False,49,Open,6031.53,84
+9014c689-5973-47da-81a0-c9c6e8d1b5e1,2023-06-03,East,Property,False,69,In Review,7359.71,21
+afabdc4d-21c1-4b88-8fec-814e2795dc1f,2023-06-03,East,Property,False,136,In Review,4413.04,19
+9e5aef10-710f-41c8-be7a-685e9ad0c64e,2023-06-03,South,Auto,False,188,Closed,7955.29,65
+45236a7d-14bb-43bc-a45d-7b06a5e39ce7,2023-06-03,North,Auto,False,238,In Review,7040.42,81
+101109b3-5303-4df6-9b6b-bb1f76d0d750,2023-06-03,West,Auto,False,121,Open,4122.66,23
+fef34747-5051-443f-91a5-a158dcec1f07,2023-06-03,North,Health,False,244,In Review,6374.4,81
+1c386f2a-e0dc-4be5-8e94-626e00d88cd9,2023-06-03,South,Health,False,91,Closed,3762.14,78
+fc41ae5a-d968-45ec-b320-ab3512bfa350,2023-06-03,North,Property,False,37,In Review,2668.36,76
+9a7c6ce4-cd25-44db-920d-1afeb3548530,2023-07-03,South,Health,False,236,Open,6262.01,67
+48c3558c-144f-4901-af51-d70cf32991a9,2023-07-03,West,Property,False,175,Closed,8166.17,79
+54c02600-263d-47fb-971f-bab985f8c96b,2023-07-03,South,Auto,False,195,In Review,6727.37,18
+0b8daed0-6ae5-4e43-b446-b067fe542b93,2023-07-03,South,Auto,False,139,Open,6892.38,24
+7500fcad-b734-43f2-aca7-f48812c738b8,2023-07-03,South,Health,False,236,In Review,9849.75,50
+36bddb20-5fb2-448c-ad35-0f4dcca5fd37,2023-07-03,West,Auto,False,51,Closed,4737.17,52
+17b09cee-fd01-473c-858f-064729dc769a,2023-08-03,West,Health,False,246,Closed,8993.06,46
+43d57d01-316d-483d-9b50-22edf0b2be09,2023-08-03,East,Auto,False,287,In Review,8314.42,55
+1d5db2d4-89ff-48fd-a9bd-f7a9909fb237,2023-08-03,West,Property,False,120,Open,8722.21,52
+442095b4-df8d-47d5-9af8-852bf6b52f00,2023-08-03,East,Property,False,298,Open,9650.43,76
+62d259ef-1393-43e2-a0b7-ee6566298b38,2023-08-03,North,Property,False,115,Closed,1154.35,41
+da2b7cc1-712f-4b1f-a7aa-8a35de5659cd,2023-08-03,South,Auto,False,212,In Review,5604.72,75
+90f43158-b168-4b75-be43-ac665d67b759,2023-08-03,East,Property,False,154,Closed,4515.34,78
+e36fa2e4-8a62-461f-961f-b45641994d42,2023-08-03,North,Property,False,103,Open,4503.07,37
+095a473b-721f-46f0-860b-5a9b67e62c7e,2023-08-03,West,Property,False,168,Closed,4343.37,45
+c0930a7e-08e0-4f12-b20d-e5d6f6520c74,2023-09-03,East,Property,False,178,Closed,6845.58,59
+ead7cf6b-74f6-4aef-a34b-1c9be6c8198e,2023-09-03,West,Health,False,232,In Review,8495.49,44
+c622363f-c01c-40a9-b84f-7f2ad6fe1d09,2023-09-03,East,Health,False,104,Open,6684.79,58
+bfbb059c-6cd5-40a8-acf5-ab41253ac420,2023-09-03,East,Property,False,211,Closed,5992.19,82
+21ab8a16-6bae-4f44-8b81-018da71f06e3,2023-09-03,West,Property,False,172,Closed,5096.55,64
+af8de2c3-11a0-46d8-9b8f-6b0f00105c01,2023-09-03,North,Auto,False,141,Open,6487.28,60
+ed143bf6-3975-4e2e-a613-a7e5b0385624,2023-09-03,East,Health,False,195,In Review,6751.29,30
+01d952cc-3a2c-4697-8a93-85de49bee788,2023-09-03,North,Health,False,259,Closed,9291.77,43
+bd9d365a-546b-4db4-9158-516d0a3cb9b8,2023-09-03,East,Property,True,37,Open,4810.02,47
+65e2d13f-2169-409c-964c-d47340dd9b3d,2023-10-03,West,Property,False,264,In Review,5514.18,76
+a23b94a5-cf0a-4d4a-b21b-20d107d4793e,2023-10-03,East,Property,False,117,In Review,2126.99,68
+4e359a24-0f06-4c68-ade1-46833e1562ee,2023-10-03,West,Auto,False,268,In Review,9760.44,25
+d59adfec-2a39-46a0-81ea-5afd82bd0190,2023-10-03,East,Property,False,260,Open,9778.09,66
+e6d338f5-db06-46b6-ad6c-612c2d8447f6,2023-10-03,North,Health,False,40,Closed,1639.31,75
+846a8e8e-0581-4c9f-ab7a-9ca8c7df7213,2023-11-03,East,Health,False,81,In Review,2325.48,20
+ea2592ad-6c6c-4f10-918c-a0b85a75f704,2023-11-03,North,Health,True,101,In Review,8184.64,81
+74d1a41c-34c9-4522-b0b8-7a0e76f2b482,2023-11-03,West,Auto,False,89,Closed,3308.17,66
+3dc0a538-3c81-4e2f-9bcc-4b44f509e407,2023-11-03,West,Auto,False,65,Open,2531.04,21
+d4157950-8a07-41ca-9317-12eed5725673,2023-11-03,East,Health,False,159,In Review,3721.78,63
+a463af2e-262d-4427-b3f2-82f2c355f1dd,2023-11-03,West,Health,True,295,Closed,3805.21,61
+2a0a5ffe-ab78-4ae6-8a6e-d8a7124e6801,2023-12-03,North,Auto,False,135,Open,4767.47,26
+2cf4562b-356a-4a77-b2b7-52251e9b44e9,2023-12-03,South,Auto,False,47,In Review,9925.96,34
+e3960995-d6f8-419a-b0bb-93234a6fad8e,2023-12-03,East,Health,False,196,Open,9905.06,26
+2375a30e-5ee6-46d3-88c0-b51fa809f4cd,2023-12-03,West,Health,True,111,Open,7674.77,80
+ffb54d31-e90f-4ec4-9486-4355e9e94e72,2023-12-03,West,Health,False,278,In Review,8197.46,33
+de5e3fc8-79d8-42e2-a1cc-bf95d090b8eb,2023-12-03,East,Property,False,253,Closed,9129.68,23
+44645758-5db2-4310-97ae-f6794c76563f,2023-12-03,East,Auto,False,299,In Review,4624.98,56
+9c433ce2-79bc-4951-b97b-69cf0bf6815b,2023-12-03,West,Auto,False,216,Closed,2184.88,70
+b7cb3c43-eabc-4149-a0a1-ba803568dcc4,2023-12-03,South,Property,False,266,Closed,8431.4,39
+b139ba3e-9f9d-46f1-b4fd-aff3305093eb,2023-12-03,West,Auto,False,276,Closed,2287.01,49
+351a64ed-5e53-4e57-8f81-35797d20e6f5,2023-12-03,East,Health,False,216,Open,7565.17,79
+02f484f1-c8cb-4fad-9e82-5a8f4fbe5e3f,2023-01-04,North,Property,True,225,In Review,8857.39,24
+862737d8-6a9b-495a-b98a-70a7cf3709c4,2023-01-04,East,Auto,False,259,In Review,4450.57,58
+929147aa-0525-4678-b4b4-1cd9f874cb27,2023-01-04,East,Property,False,207,In Review,7483.46,76
+8851e246-5983-4823-8c24-d03344ca518b,2023-01-04,East,Auto,False,77,In Review,7384.5,79
+f68bae61-24cd-4c3a-b3cb-d6591646444c,2023-01-04,East,Health,False,282,Open,4266.85,34
+23f3006e-d344-4926-b8a3-54b3cd5653f8,2023-02-04,West,Property,False,235,Closed,1424.77,44
+4d03e2c4-c1b3-4ad9-94de-31d26debdee2,2023-02-04,East,Health,False,293,In Review,3239.13,64
+0342ae0e-0be0-49f7-8852-062e2595dd8d,2023-02-04,North,Auto,True,218,Closed,9203.63,30
+eae09be6-d47a-495e-8ba8-5beb6a05db22,2023-02-04,North,Health,False,265,Closed,4096.82,48
+38ba8f8d-bebc-446b-8511-797ce46a663e,2023-02-04,West,Auto,False,43,In Review,3249.76,73
+f084124c-2c72-47eb-9abb-95e9495a66e6,2023-02-04,South,Auto,False,274,Closed,2761.41,33
+2f5358cd-6b72-4480-8c5c-82d8a0c6c4f5,2023-02-04,South,Health,False,159,Open,6947.19,23
+45f23d20-2975-4f2b-976e-39c61b8d7740,2023-02-04,North,Property,False,98,In Review,1492.59,59
+4bdedca7-2913-482e-9849-ad24dc63f136,2023-02-04,North,Health,True,129,Closed,8594.91,39
+138afadf-dfb1-431b-84fa-f0581e6c59b0,2023-02-04,South,Property,False,280,Closed,8885.73,82
+a6d1e626-b90d-46e4-b822-755eac72ff33,2023-02-04,East,Auto,False,161,Open,4139.49,60
+a1d76292-525a-4ab9-8b68-2bfc95c2ca3c,2023-02-04,East,Auto,False,134,In Review,1320.31,79
+b9e2092a-fd03-40a4-aa47-8570af17fe48,2023-03-04,East,Health,True,85,Open,4526.3,35
+f3f9e4a1-d0d5-4e48-b836-04e47c41e398,2023-03-04,South,Auto,False,200,In Review,8335.65,35
+0bd7a670-53f0-4778-a535-4d428700aa7d,2023-03-04,East,Health,True,279,Closed,5146.6,84
+296e90f2-1380-4da3-9acf-988b072d33e1,2023-03-04,East,Health,False,99,Closed,8042.5,66
+9e2696a2-c734-49af-9212-6399933a7915,2023-03-04,West,Health,True,38,In Review,3932.93,59
+4c8cc548-aeea-4628-a406-a189aaba8dbf,2023-03-04,East,Property,True,49,In Review,1005.38,82
+6b7c9e44-8cd8-427b-a0b0-bcf3ce2eb640,2023-04-04,North,Auto,False,112,Closed,5999.95,72
+f93ea2f8-34a4-475f-86e3-269548d14de9,2023-04-04,West,Property,False,51,In Review,9147.69,46
+4aa0abf9-8fd1-40e6-9061-edf3b2fb64c5,2023-04-04,East,Auto,False,60,Closed,1542.04,34
+6b0c1c1a-ac37-4c10-9796-a2707c71d332,2023-04-04,South,Health,False,236,Closed,9242.27,84
+e962295e-968a-4db0-9c43-97624bbc3c15,2023-04-04,West,Property,True,143,Open,1384.66,54
+919e24af-e4ec-4dbc-bc0f-33b51b9eb2f1,2023-04-04,North,Property,False,45,In Review,8685.49,57
+ff6ac744-4942-4b5d-9c7e-83b37cb260ef,2023-04-04,South,Auto,False,221,In Review,1129.43,76
+ee1df67a-cfd5-4bfc-acdd-9f26e627f4d6,2023-04-04,East,Property,True,137,In Review,8905.74,33
+7da62544-d5d6-48ac-bf40-f395f09fde7e,2023-04-04,East,Property,False,154,Open,5530.11,39
+34f3fc64-6cb2-4d5f-8b20-0d0c9224c353,2023-04-04,West,Auto,False,268,Open,4613.48,35
+6bf5dd5c-1d62-4336-ab54-85ce6d8a2c97,2023-05-04,North,Auto,True,73,In Review,4170.94,53
+b2995bc4-47eb-4be2-8fe7-98fca5a4306d,2023-05-04,North,Property,False,214,Open,2270.79,72
+7f24eb1a-9ef6-4b3a-9e72-13c2471eb4e4,2023-05-04,South,Auto,False,148,Closed,5303.43,52
+ced7164a-dc0a-4a76-af7f-8f6cf7870401,2023-05-04,East,Property,True,63,Open,9442.58,40
+255360d9-9280-4bef-b5e4-2c23c3fa79d8,2023-05-04,East,Property,False,111,In Review,1621.33,18
+c7561b5c-6571-427a-bd41-8dcff7ed657d,2023-05-04,North,Health,False,35,In Review,6572.51,47
+cf200b44-6835-4836-8d94-a6eb8855afaa,2023-05-04,West,Auto,False,238,Open,2770.19,80
+68b76b82-8263-485d-826c-8f36ee5cb710,2023-05-04,East,Health,False,233,Open,5734.74,79
+ac6ffc9c-3ea1-49c9-a3bb-0f32e52ad6f5,2023-05-04,East,Auto,True,216,Closed,5252.64,53
+7e94a17b-3369-4562-9d99-125ecaef4040,2023-05-04,South,Property,False,118,In Review,4711.3,80
+6015af6b-c503-4a8b-9c32-d439a157b59f,2023-06-04,North,Property,True,130,In Review,1783.64,58
+c5e8159f-b581-4090-8966-49346b57b678,2023-06-04,North,Health,False,174,Open,8640.31,79
+f53a35e1-2542-4a84-90e6-4ea48b5807e6,2023-06-04,West,Auto,False,146,Closed,9692.49,57
+cc2f8e32-c69c-4da3-80fa-0494048cb67a,2023-06-04,South,Property,False,212,Open,5985.94,34
+2332ace6-5b60-449a-a7e8-ccc8c54cd7cb,2023-06-04,South,Health,True,130,Open,3950.54,31
+f23cd161-df72-4e6b-9a25-614ebe605722,2023-06-04,North,Auto,False,76,In Review,1490.61,44
+d1f5e570-4854-48d1-a650-240b8d8ee685,2023-06-04,East,Auto,False,55,Open,7222.74,63
+cb59ddd9-5c3c-4753-bd21-94cfd14108ed,2023-06-04,West,Auto,False,210,In Review,4164.85,59
+b673c89e-6073-4ad6-9440-75ee8f104714,2023-06-04,East,Auto,False,105,Open,3809.73,20
+e8b32cce-3996-40f7-a7b3-d263150bb956,2023-06-04,East,Auto,False,229,Open,6412.46,63
+7a52c648-d26a-4c0c-93f1-d6802d7362ba,2023-06-04,South,Auto,False,158,Open,1180.21,33
+19946e0c-82a3-4542-b557-6978c3ab8c6d,2023-06-04,South,Auto,False,163,In Review,7744.32,60
+aa6d9c97-1c3e-4bc2-ada4-302a4ab7b937,2023-06-04,South,Health,False,190,Closed,1241.81,80
+4cac0b5e-33e5-4047-b4cf-9e6408950768,2023-06-04,East,Auto,False,31,Closed,8250.42,66
+4e548a21-cd1c-42b7-a23e-31664582d373,2023-07-04,West,Auto,False,245,Closed,5020.54,43
+6d5a259f-f209-4b6b-838a-5f53bbc61b21,2023-07-04,North,Health,True,116,In Review,4002.95,65
+6c9d57bf-bdd2-43ea-8289-968c1c33181e,2023-07-04,West,Health,True,216,Closed,6402.26,29
+56bd9f67-f7f9-41fe-94c1-23c9b3eecc3d,2023-07-04,West,Health,False,107,In Review,4074.77,23
+ab4d610f-fe6f-4555-b512-a9525d80dc73,2023-07-04,North,Health,True,209,In Review,6527.2,68
+e24eaac2-60e9-4f0a-a6f8-8300777caad8,2023-07-04,West,Property,False,48,Closed,2862.94,70
+bb3e582e-6065-4893-9d56-260ab98d5611,2023-07-04,East,Auto,False,98,In Review,3467.08,20
+d5dee4c9-c684-43ea-b330-c0ca4de49b47,2023-07-04,South,Auto,False,38,In Review,2264.92,34
+638c61e1-a1b3-4ff5-86c7-b09e9ac411e4,2023-07-04,South,Auto,False,296,Closed,8721.41,52
+1c9c53e4-4875-44ff-8fe2-ac54ba853639,2023-07-04,East,Health,False,295,Closed,5748.29,51
+6c4899f8-45d8-493a-bd4f-cddae18d9c1f,2023-07-04,North,Health,False,174,In Review,3724.98,18
+94d0db17-13d2-46b8-9460-5d66bff1136b,2023-07-04,West,Property,False,135,Open,6554.75,21
+506118ef-0fbd-479c-a5b1-a02661a1998f,2023-07-04,South,Auto,True,41,Open,7490.19,23
+c5b55500-11b6-4842-9507-b10d3dec01b8,2023-07-04,West,Auto,False,169,Open,4671.01,28
+7c76db83-fbdb-4d09-adfc-5a4ee52dd897,2023-08-04,West,Health,False,141,Open,4469.98,31
+2fe83b8f-f041-49dd-989e-69a8a1d8e555,2023-08-04,West,Health,False,178,Closed,1627.47,37
+da5d9f57-6077-4a8c-9180-f2bdbc8eba4f,2023-08-04,West,Property,False,158,Closed,7634.19,78
+1f776fc1-3453-44a1-b5f8-2224599c1bdc,2023-08-04,West,Health,False,174,In Review,7665.97,41
+5dc8694e-fb8c-4406-91ee-04fa1c4ece90,2023-08-04,East,Health,False,277,Closed,6527.68,56
+eec51f8c-22d7-452a-b752-c621c5f30134,2023-08-04,West,Auto,False,249,Open,5111.36,65
+ad6ef32e-2d0a-4d53-a566-87546e6d056f,2023-08-04,South,Property,False,209,Closed,1557.52,43
+1b49edb4-96de-4111-a9aa-7d9c2b05ae84,2023-08-04,North,Property,False,86,Closed,4445.95,48
+462b0d62-ce71-4f91-bc10-869adf189e30,2023-08-04,West,Property,False,242,Closed,3361.68,50
+8be21fb1-6ff3-4c16-aa3e-c8de19c63fa5,2023-09-04,South,Property,False,275,Closed,3991.84,47
+ff7df477-03dd-468a-9316-ebf03b254c8d,2023-09-04,West,Auto,True,206,In Review,8817.01,53
+b42b2edf-628a-4298-b137-caa748363e95,2023-09-04,North,Property,False,118,Closed,6676.93,36
+f0ca5376-96b5-4338-b0d0-465f89a65d3e,2023-09-04,South,Property,False,237,Open,1860.77,51
+60f4302e-c732-4998-8cde-45c6142980b7,2023-09-04,North,Auto,False,86,Open,2481.39,71
+7ea9c2a6-eaed-4cf6-9ca1-f7da273eec49,2023-09-04,North,Property,False,119,In Review,1921.3,19
+be5d89c3-5000-4982-accc-d0d774714a20,2023-09-04,East,Health,False,287,In Review,7148.03,43
+aca62bbc-7bf0-4ca4-8b4e-8e58df45d12e,2023-09-04,South,Property,False,217,Open,4657.75,30
+1d409f26-f4b5-4c99-a9f2-3dc47b714f61,2023-09-04,North,Property,False,198,Open,3845.94,32
+4e25cfc4-b322-42e4-b95d-66f6445c5f9c,2023-10-04,West,Property,False,284,In Review,2656.4,82
+403a0126-d344-4e56-87a1-25f0e5f8556b,2023-10-04,West,Property,False,180,Open,5052.49,57
+711b57f0-ce6c-4051-bd4b-f6d6420360e0,2023-10-04,North,Property,False,218,In Review,4829.55,48
+be89d02c-5db4-46dd-a5ef-fd02f0c7b03b,2023-10-04,North,Health,True,119,Open,3716.28,26
+186e8fbf-8e69-4e4e-840f-184dee088c61,2023-10-04,West,Auto,False,211,In Review,2203.26,75
+e6ce0de7-1356-4096-8712-116a3422a430,2023-10-04,South,Property,False,210,Open,2936.4,68
+5da6489f-e82f-44a2-8b3a-12a9aa4bf0b8,2023-10-04,South,Property,False,195,In Review,1574.15,71
+a358ea32-8f53-4887-a4c0-6508f44041db,2023-10-04,East,Health,False,33,In Review,6785.0,53
+cb7bca84-0943-450e-ae1a-7e6abe7f788f,2023-10-04,North,Property,False,130,In Review,6763.43,70
+79ff7e4c-4098-4c68-bd57-5f6a910d85d6,2023-10-04,South,Property,False,92,Open,3935.98,21
+e2d9ca77-6471-4487-96d9-de45a9778b58,2023-10-04,North,Auto,True,236,Closed,9318.79,18
+8afd49c3-1f6b-4e66-8578-93a57b14f504,2023-10-04,East,Health,True,280,In Review,8790.14,63
+1920bb4e-04ed-4d6b-82ef-005a705a88f5,2023-10-04,South,Health,True,78,Closed,6982.65,39
+79c2bf5f-eddc-416c-ab19-989cc0a947fc,2023-10-04,West,Auto,False,228,In Review,1066.18,48
+66eec576-bff7-4807-a201-8244d614083b,2023-11-04,West,Property,False,245,Open,7455.36,74
+bcded10c-ea3b-4eca-af39-9255e2707946,2023-11-04,East,Auto,False,224,Closed,7202.09,66
+5debc5cf-08dd-47b2-888c-a62752cd0e2c,2023-11-04,West,Property,True,225,In Review,8866.12,75
+44f3a11a-055f-4d75-9424-f0f7ef577628,2023-11-04,East,Health,False,236,In Review,9746.61,54
+c546f6ef-f3e8-44f5-8018-fea98bd75c25,2023-11-04,North,Property,False,66,Open,6857.5,62
+f1f246db-8c66-4cc8-8d33-178e922d96bb,2023-11-04,South,Health,True,48,Open,2812.66,61
+8b7b63a2-0325-4ada-ae62-9346445598c4,2023-11-04,North,Property,False,84,Closed,5110.58,58
+9f140dea-adea-4eaf-bf24-f137297dfcc0,2023-11-04,North,Property,False,39,Closed,4166.96,68
+99d762d6-9020-4f8a-95a7-41b953d805da,2023-11-04,North,Auto,False,260,Closed,2658.71,66
+ac6dfa70-a937-4fcc-9d5c-69293e3e35f0,2023-11-04,North,Auto,False,214,Closed,5209.49,78
+ba90b86a-6dff-4a6a-9391-2f919be2062b,2023-11-04,West,Health,False,176,Closed,1094.62,79
+2428d160-34df-4f94-b9e0-c9d0aad78786,2023-11-04,North,Property,False,137,Closed,5586.91,74
+ca8fe28e-c738-46b6-842a-2e83f75a8769,2023-12-04,East,Health,False,121,In Review,1515.13,37
+e7dc18d0-60ba-4cf8-8574-a362391e51ca,2023-12-04,South,Health,False,34,Open,6218.47,74
+f5684d11-585e-4419-b197-2bfa8aecd776,2023-12-04,North,Property,False,222,Open,1494.7,38
+884e2ed9-8d67-4c11-9c3c-1232107fda87,2023-12-04,East,Auto,False,182,In Review,4219.79,72
+7e87623b-fb31-4623-9c42-99569cba03f7,2023-12-04,West,Auto,False,213,In Review,7415.94,83
+357a3763-fed7-4362-8fe9-d6aafa3fc08c,2023-01-05,North,Property,False,87,Open,9994.03,29
+1b977bce-7cf6-4b48-9d60-a2b3a889ab52,2023-01-05,East,Property,False,91,Closed,5864.97,72
+42e6a7e8-356f-4656-ab63-264ee57c5e9f,2023-01-05,East,Auto,False,174,Closed,5228.24,45
+bf905dd8-9d34-4e07-a215-2f48b8a2375d,2023-01-05,West,Property,False,261,In Review,1540.98,59
+3c4ce67c-416d-4c89-b000-e3b767befdfa,2023-01-05,West,Auto,False,253,Closed,2884.14,48
+055c5759-05e8-487b-a24a-02746dc0cbd1,2023-01-05,North,Health,False,170,In Review,1250.57,64
+bd66e869-6e60-43f8-a1a6-a2edd4163c28,2023-01-05,East,Property,False,96,Closed,7683.72,54
+c30aca7b-bcd2-4680-b811-2095c803a9aa,2023-01-05,East,Health,False,81,In Review,6703.79,59
+17d11a2b-3cef-4b4c-a398-90850bac7ecd,2023-01-05,West,Health,False,269,In Review,9268.73,81
+4dc6960b-f267-423b-a99c-355068f9eb2a,2023-01-05,East,Health,False,49,Open,6943.02,25
+0f42ee96-d730-4180-bb43-e49ccbc481a4,2023-02-05,South,Auto,False,129,Closed,2874.5,77
+58cef0d3-68ed-49fe-bc2f-e34eed5f2fa2,2023-02-05,West,Property,False,102,In Review,4823.15,29
+dc7452df-80fa-4115-86e8-a327eb53ad41,2023-02-05,West,Auto,False,253,Closed,9895.34,60
+d2093f33-4a70-47a4-a364-f04cb94c3d67,2023-02-05,West,Property,False,211,Open,2412.12,33
+f776327c-0fe2-44c7-9711-5316b63913f9,2023-02-05,West,Auto,False,273,Closed,7612.86,27
+c0992b19-004d-4a76-919a-ada11519b6b2,2023-02-05,West,Auto,False,121,Closed,6059.3,22
+1aae2dc6-0afb-42d9-8e1e-0b238f242693,2023-02-05,East,Auto,False,250,Closed,3419.75,81
+e048d65b-3a03-410f-83c3-99da0b5654c2,2023-02-05,West,Property,False,68,Open,5852.74,50
+f5eec582-f3d6-40be-9302-1c75203e714e,2023-02-05,East,Property,False,63,Closed,9971.64,79
+77d44267-51b0-4860-9b05-f5f86ee92c7d,2023-02-05,East,Health,False,147,Open,7491.02,55
+cb1eb939-5e71-4137-8c48-6df4d31f0053,2023-03-05,South,Auto,False,187,Open,9533.79,35
+fbaab64b-1adf-4626-a9c5-6bacee1fa277,2023-03-05,North,Property,True,206,In Review,6921.55,27
+9666be52-b057-4cbe-9fcd-13e7d7d86b69,2023-03-05,East,Health,False,219,In Review,9321.93,34
+9696316d-f929-4445-bac3-bd74fe47d5a4,2023-03-05,West,Health,False,69,In Review,6668.85,70
+ee53a4a2-7148-4525-99e1-6c94c4bd22c5,2023-03-05,East,Property,False,229,Closed,5431.62,60
+d20d0fbd-340b-4b18-863b-1fc53bef9af9,2023-03-05,East,Auto,False,266,Closed,7353.87,72
+66e13326-9851-40cb-957b-b214fc812b1c,2023-03-05,North,Auto,False,145,In Review,1232.55,41
+324aa8b7-0a71-4128-a7e8-cd4a4ea25807,2023-03-05,East,Auto,True,257,Open,3514.11,56
+f4f1f877-5d61-4e8f-bff6-482c33a0167c,2023-04-05,West,Auto,False,188,Open,3096.12,30
+2679a64f-48e2-4ed9-8cde-61124c5748ba,2023-04-05,East,Health,False,104,Closed,3030.98,46
+df667892-f358-4d50-aec9-7a73e62b904b,2023-04-05,South,Auto,True,106,Open,9987.05,61
+51eea9f2-3b07-4022-94c6-965fdb50debc,2023-04-05,West,Property,True,106,Open,5991.58,78
+bf9200a7-c964-46e8-bf5b-6ec647770f66,2023-04-05,South,Property,False,186,In Review,5139.48,36
+02a808ec-ea2f-4f7a-983f-6c0afd483c10,2023-04-05,West,Health,False,194,Open,3417.39,42
+3ce5da37-8cdc-4784-ab0c-6906a39b1277,2023-04-05,North,Property,False,291,Closed,7692.42,28
+221263a8-5cc8-460e-9c9f-91a9cc26049c,2023-04-05,North,Auto,False,81,In Review,7849.05,48
+6cde7813-554a-49bd-95f1-5685c96020bb,2023-04-05,East,Auto,True,122,Open,8932.69,34
+955678c9-15b8-43f3-b0b7-10feccd9cc16,2023-04-05,South,Auto,True,289,Closed,7273.12,43
+267bc8e3-ef3a-4403-afa3-925752014edd,2023-04-05,East,Property,True,299,Open,1700.91,33
+f36489ca-a903-4e97-83d3-8ea817ab016b,2023-04-05,South,Auto,False,95,In Review,8864.15,39
+cdabafef-2678-48ca-bdfe-0a8afc215d40,2023-05-05,East,Auto,True,247,Open,8114.62,41
+db908a9c-8b03-499f-b351-0010c5a28346,2023-05-05,East,Property,False,123,In Review,3450.84,29
+c114e060-507c-4453-bec1-21bcdb801b4b,2023-05-05,West,Auto,False,206,Open,6367.54,81
+49242c92-ad6b-46b8-a47f-fe7c857b2035,2023-05-05,East,Auto,False,231,Closed,2161.59,60
+d77b02ec-ea15-4026-b123-75653151c0cb,2023-05-05,East,Property,True,278,Open,1513.85,82
+c60d0960-f67d-44a6-889e-cbb9ec50f43a,2023-06-05,South,Health,False,182,Open,4804.32,68
+a62a13f5-f26a-4fd2-a038-4e9d8a348c15,2023-06-05,West,Health,False,275,In Review,5867.44,77
+79675c5c-b2fc-403f-bcfe-e59dfbdf8d2d,2023-06-05,South,Health,False,296,Closed,7689.65,28
+9a389d72-5572-4a0e-84ec-4499a245956d,2023-06-05,West,Property,False,175,Open,6754.37,41
+c1cadf46-caa7-4fdd-8250-c410dafec9aa,2023-06-05,North,Property,False,295,Closed,7807.2,20
+14f1b127-7712-40f0-bef9-369c27c30816,2023-06-05,East,Property,False,85,In Review,5477.76,27
+101a0b29-0130-4f71-a50d-207a9e9d4f5a,2023-06-05,South,Property,False,100,In Review,8784.95,19
+7c98272a-a25f-4d54-9eaa-fdda82d5af7a,2023-06-05,West,Health,False,123,Closed,7564.74,82
+b7c34848-1d6c-4af4-a391-76cef9dac22d,2023-06-05,South,Auto,False,242,Open,9041.59,29
+76f82ea0-4e92-45eb-9594-6bf0f4d97378,2023-06-05,South,Health,False,299,Open,1374.8,77
+349aeb23-128a-4d3c-bcae-78b187df5a5a,2023-07-05,North,Auto,False,55,Closed,5748.22,82
+95fe90ff-efbe-4c7f-9442-272ce297564e,2023-07-05,North,Property,False,58,Open,5766.15,71
+062d33a7-edd0-4c0c-85a4-cb67e5544255,2023-07-05,East,Health,False,167,In Review,8227.33,64
+2d7c45c1-01d1-4bc9-958d-968ababadd26,2023-07-05,South,Health,False,55,In Review,4229.82,19
+77dfe3f5-06ac-474d-ad64-ee12871b7bb9,2023-07-05,North,Health,True,120,Open,4657.66,66
+a1e85677-fe71-4e11-b917-187528a53311,2023-07-05,North,Auto,False,197,Open,1886.92,39
+cabd0131-f40c-4ce1-a8da-76a9823a5b7b,2023-07-05,South,Health,False,230,Closed,1804.06,24
+d1a8ac92-55e9-48bb-b077-52186fe3c41a,2023-07-05,West,Auto,False,66,In Review,8448.23,54
+82181a38-049d-4eeb-aa76-11e1c586329d,2023-07-05,North,Auto,False,243,Closed,1155.59,50
+7f784c0f-229c-4359-8820-7eee66fdf389,2023-07-05,South,Health,False,217,Closed,1099.12,41
+1fa665ae-f83f-47bd-8694-b1520f5fd502,2023-07-05,West,Auto,False,118,Open,1034.47,83
+f56171f4-73c9-4879-90f4-15c93f0aa40f,2023-08-05,South,Property,False,64,Open,8681.19,27
+38802168-644e-486c-9ca9-0b6dc677a56f,2023-08-05,North,Health,False,217,In Review,9935.49,74
+aa35d723-a7c1-4046-a4ca-a5c20235e6ff,2023-08-05,North,Auto,True,70,In Review,1778.12,40
+e254aeff-7c1b-46ee-a5d7-7e7d4b5bafa6,2023-08-05,West,Auto,True,191,In Review,5186.85,66
+1f37a2ea-9448-4639-8429-5dbe3f0054ae,2023-08-05,North,Property,False,198,Closed,9151.81,31
+14217034-c1cb-4bcd-82c4-9a2697496d25,2023-09-05,West,Auto,False,183,Open,8830.22,79
+fe1b7618-310a-4274-b9ea-d7563e932989,2023-09-05,West,Health,False,133,Closed,7631.15,46
+fa66018d-f86e-470c-991f-afbc8bd5db4d,2023-09-05,East,Health,False,196,Closed,4835.1,38
+4e20a24c-c6e8-4c42-94ab-382d6ae73fc4,2023-09-05,North,Property,False,167,In Review,9448.47,65
+de6c47ab-4594-40c9-ae7e-39bb77337433,2023-09-05,North,Health,False,295,Closed,2124.61,18
+10d71d5b-96ad-4994-9fca-c2e1b6bc9f3a,2023-09-05,North,Property,False,252,In Review,3815.6,34
+dd40913e-c2e8-4bbe-aeaa-ee295ec60f50,2023-09-05,North,Health,True,168,Closed,4287.05,78
+c3d46d58-3c71-4aad-9cc0-3eafc2e803d1,2023-09-05,East,Property,False,39,Open,6083.57,67
+fd3c3cd5-5db4-4f06-b110-f0b157af10f1,2023-10-05,South,Health,True,49,Open,5578.16,18
+ca6bfced-1611-4c6a-9a5f-82bfd45aeb0f,2023-10-05,West,Health,False,294,Closed,5340.03,51
+c8fdf8d6-1c7c-4b25-b8fe-118325a35c4b,2023-10-05,East,Health,False,271,Closed,1539.33,49
+673cb251-3b5f-46d9-b1e3-ad12de76d9d7,2023-10-05,South,Auto,False,44,Open,3908.75,63
+d98d6556-9138-4202-b72c-90ccb4d53787,2023-10-05,North,Health,False,195,In Review,7034.02,60
+306a9d77-dcf0-481e-b7e1-cb425e2e5e2d,2023-10-05,West,Auto,False,207,Closed,7707.17,47
+4a4c8887-8644-49a3-bf16-04a92b3602e3,2023-10-05,North,Health,True,71,In Review,5039.66,78
+d4363b7b-0935-45d9-baca-cdf40b5e6378,2023-10-05,South,Health,False,140,In Review,9175.69,68
+f84f8521-13a0-4501-83e1-220a0a32f57e,2023-10-05,North,Health,False,182,In Review,6705.01,43
+6f84b0e3-4d7a-462c-9176-599634014dda,2023-11-05,South,Auto,False,55,Closed,5791.24,40
+30189f07-c78f-4875-a502-35f851f5f1bf,2023-11-05,East,Auto,False,223,Open,9621.81,52
+5bd51d4d-d38d-4863-910e-5316dff6e1de,2023-11-05,North,Auto,False,211,Closed,8703.33,58
+7a1459f7-3ec0-4fb5-8a6c-12b271a5efdb,2023-11-05,West,Health,True,197,Closed,3390.29,82
+210a0c3d-a43e-4859-b1c4-8e9f8b0ed983,2023-11-05,North,Health,False,167,In Review,9385.58,55
+3dcab98b-6558-4252-8191-4e7455b06d12,2023-11-05,West,Auto,False,192,Closed,6934.22,58
+5067ada3-a4dc-467c-b0f4-d475f22f4266,2023-11-05,East,Auto,False,268,Closed,5425.64,71
+770a5741-a4cd-4414-9a19-e9a50b5dda26,2023-11-05,East,Health,True,215,Closed,4795.97,80
+16db74c2-7df9-4143-bfd9-40ddd987a2c2,2023-11-05,North,Property,False,165,In Review,7865.63,34
+14e1b1a2-6047-46ed-b4b0-7e9cd3cdda8f,2023-11-05,South,Property,False,194,In Review,9343.04,70
+77476d8f-0602-4c70-9ecb-d2c985db8eb9,2023-11-05,East,Health,True,165,In Review,5780.81,64
+451a640b-c043-42ee-941b-4d20d2640cef,2023-11-05,South,Property,False,168,Open,6905.61,21
+b12a34b2-755a-4f3a-b27c-4c7cce1c51c1,2023-12-05,North,Health,False,68,Closed,2158.79,75
+5d29ba17-3704-4ed0-b81d-91c155e7656b,2023-12-05,West,Auto,False,234,Closed,6336.84,31
+26beeca0-6c8f-4484-8cb4-cd329c102499,2023-12-05,North,Property,False,181,Closed,2323.13,79
+30c7551e-6f14-4476-9481-73002e24d48c,2023-12-05,East,Property,True,238,In Review,5020.95,20
+e09c3654-3863-4ece-ab59-7677b0d07859,2023-12-05,North,Health,False,206,In Review,4375.89,66
+f179141c-34a4-4f68-9ca0-d22ee3682f9c,2023-12-05,East,Health,False,44,Closed,3683.35,40
+dbb7a953-07d0-4106-822f-b5436a3eae44,2023-12-05,South,Health,False,228,In Review,2790.37,63
+d2bfedfa-a76d-4eae-bf89-e8976a452d05,2023-12-05,West,Health,False,278,Closed,3632.64,46
+1ae3d8d0-8fb9-45fa-b3d4-1ed236250e00,2023-12-05,East,Health,False,117,Open,7050.54,39
+de504ada-5a38-464d-8159-a723c959c33b,2023-12-05,West,Auto,False,75,Open,8582.81,22
+045d46dc-0666-4109-b631-c0e2946f2a67,2023-12-05,East,Auto,False,275,Open,9522.13,32
+c87112f9-d0dd-45d0-b807-97fca252e84a,2023-12-05,North,Health,False,299,Closed,4640.42,84
+83eef15d-2901-4b53-849b-bceb786e778b,2023-12-05,South,Auto,False,248,Open,2680.95,22
+6e1ae5bf-6739-40bd-a333-8f0ea850ad53,2023-01-06,West,Auto,True,292,Open,8382.49,51
+3371970f-389c-4e5a-94bd-b6dd7c88433a,2023-01-06,North,Health,True,116,Open,3249.63,27
+424d9a35-e0d4-448d-a32b-f3578652b240,2023-01-06,East,Health,False,244,In Review,2276.6,26
+c97de00d-9df3-4e7e-8cb9-a2820533abc9,2023-01-06,South,Auto,False,77,In Review,9555.46,39
+d34c5714-6029-427a-8f48-5637f3d2929d,2023-01-06,North,Health,False,288,Closed,2719.47,80
+0e39ea29-7181-4e47-8fa9-226878ce0694,2023-01-06,North,Property,False,101,In Review,8210.54,27
+4f85a81f-aa4c-4b36-8890-83142b52c0fb,2023-01-06,East,Auto,False,274,Closed,5496.57,33
+48193529-232e-4470-8bc2-f3ff7448b9c1,2023-01-06,South,Property,True,139,Closed,3979.15,83
+31433289-b7f9-4e47-8c80-01dce635b531,2023-01-06,East,Auto,False,141,Closed,9904.07,28
+6d1db295-b191-487d-b2a8-5c2c1ad27a84,2023-02-06,North,Auto,False,152,Closed,8549.99,68
+898f7f3b-c03b-4ac7-8b74-d618622e43d3,2023-02-06,South,Auto,False,34,Closed,4362.45,22
+378e9f3d-4156-4392-ab8e-cb4c3de5ee61,2023-02-06,East,Auto,False,179,In Review,3590.92,78
+8d55048c-53df-4122-bcf7-b68a557f736b,2023-02-06,East,Health,False,142,Open,1199.83,80
+b9eeb646-5fb7-424c-83ba-66b051dfbc77,2023-02-06,East,Property,False,118,In Review,5807.98,21
+8139ae57-aa18-4b24-839e-6cae38e51e01,2023-02-06,West,Property,False,208,In Review,7408.07,53
+67c4dac5-ccd4-4458-b857-00e46eb7ee1d,2023-02-06,South,Property,False,88,Open,5320.81,58
+b960854a-2c94-453c-80bd-e1185c91f14e,2023-02-06,North,Property,True,83,In Review,8251.34,79
+5685da3e-6b10-43e4-b150-b823f0420bf4,2023-02-06,East,Auto,True,97,Closed,2790.03,36
+f24bc512-9df6-4e87-92b7-3417c785221f,2023-02-06,East,Property,False,163,Open,3124.07,68
+c51bc459-6f5b-4846-8d3a-9c7429c87821,2023-02-06,East,Auto,True,204,In Review,3652.43,27
+903d188d-833b-43e5-84f1-a98d867fd53d,2023-03-06,West,Auto,False,46,Open,4013.37,27
+3ca6ba47-db12-4b59-be20-94ca124bb2bd,2023-03-06,East,Health,False,239,Closed,3076.61,46
+43bec329-c6e5-40e4-bd8b-629e1b4cdb0f,2023-03-06,West,Property,False,64,Open,9432.54,30
+2118be1b-d128-4451-af4b-a0ad7593c49d,2023-03-06,South,Auto,False,30,In Review,5208.3,27
+7d6c7a19-eba5-44a3-8ee7-0bbf0f1b22f0,2023-03-06,West,Property,False,194,Open,6020.29,34
+f4b32bf6-dd4e-4dfc-b10c-7b9fcc4a35f9,2023-03-06,West,Health,False,268,Open,7600.62,75
+edb4e512-2ebf-4e8c-87c3-f6f30e33dd86,2023-03-06,North,Health,True,64,In Review,4149.06,42
+ef32f816-acf4-4141-bfcf-a5d1db972aa9,2023-03-06,South,Property,True,115,In Review,5726.27,38
+56140fd2-1f36-45df-8c83-fd237da90cf2,2023-03-06,East,Auto,False,285,Closed,4984.88,70
+31463138-0ec7-4ee6-848c-13bd33b8d9bb,2023-03-06,East,Health,False,115,Closed,1047.83,73
+ad795d3d-db63-47fa-ac05-6891d32f80a4,2023-03-06,West,Health,False,83,In Review,7024.71,54
+6a38cd97-2215-4ce8-a484-83b6ed669529,2023-03-06,North,Auto,True,209,In Review,9293.12,35
+75879802-6335-4579-a397-0769ebff73b9,2023-04-06,West,Auto,False,164,Open,3948.89,73
+9c0c0faa-8334-4b84-a6f0-e56db2bbc4f8,2023-04-06,South,Property,False,169,In Review,8351.9,80
+fd388e53-5c15-4cf8-b8f7-9c815c85ec91,2023-04-06,South,Property,False,262,In Review,1564.5,46
+fb5d3eff-47f0-4974-8243-b4aa358e2cc3,2023-04-06,South,Auto,False,205,Closed,5587.62,34
+1e731416-b13b-445e-8ef2-99bd68e5dd64,2023-04-06,North,Auto,True,294,In Review,8862.0,23
+111e8a95-af45-4be7-aa1e-54eec0919d1f,2023-04-06,South,Property,False,233,Open,1161.62,30
+ab26458f-e9e5-4ad5-beee-61c4384589d4,2023-04-06,West,Property,False,49,Closed,8060.83,54
+00df8cd2-2924-4c0e-a53c-eddd41d54c7b,2023-04-06,North,Health,False,197,Closed,1255.04,58
+e7f129fc-43b7-4d8d-9755-752d18ca9bd2,2023-04-06,North,Property,False,219,Closed,2933.69,18
+0b2c7183-55cd-4832-b963-f9b2bc20e577,2023-04-06,West,Health,True,237,In Review,8142.69,59
+21cf34e7-8b51-42e1-b4d2-4da1dc515554,2023-04-06,East,Health,False,175,In Review,4561.7,20
+324d92e5-230b-48c9-a492-62d5d37c9b5e,2023-04-06,East,Auto,False,92,In Review,1948.57,41
+4fb0674c-c6e3-4fda-9a28-24c259abefdf,2023-04-06,West,Auto,False,123,Open,8427.78,41
+6c251d7f-59b0-4d12-a11f-69414a6ef107,2023-04-06,West,Auto,False,91,Closed,6575.01,31
+5a40426b-b264-4dce-a5c4-d50ee4daf4dc,2023-05-06,North,Health,False,289,In Review,4018.04,74
+294cfb82-f484-4678-a8c0-1d27d3e6be55,2023-05-06,South,Property,True,202,In Review,1240.09,50
+42c160e5-2fbb-457d-8aa5-6eb576b315de,2023-05-06,East,Property,False,101,In Review,1882.52,70
+15a1a956-fe79-4b15-8b7d-c3bcee1a2d72,2023-05-06,South,Property,False,103,Open,2775.83,36
+5f3a9c41-020d-4bab-9744-5d6065e08200,2023-05-06,East,Auto,False,88,Open,9997.37,41
+9422f26b-072c-4d95-904d-2a06b2cc4cfa,2023-05-06,North,Health,False,195,Open,8108.78,31
+9e26d16c-5d05-4cd3-a17c-f831622c56c8,2023-05-06,East,Health,True,250,In Review,4572.0,47
+75b59d93-e617-4b48-a2b9-97fc7e4ea232,2023-05-06,South,Health,False,256,In Review,4810.95,35
+44333dc1-56d7-4476-9ea3-d7f90933eb95,2023-05-06,North,Auto,False,169,Open,3321.46,39
+ccf05f37-1d51-451c-a629-951c0cfc40e6,2023-06-06,West,Property,False,48,In Review,7440.96,26
+7a277b8f-cadd-4002-931e-65c2a38996ab,2023-06-06,West,Property,False,197,In Review,3479.12,65
+38019fa1-14a5-4293-8f89-fd40baee39be,2023-06-06,East,Auto,False,199,In Review,6250.0,31
+c12eab3c-7244-46e5-b0c5-6bc4e22d0650,2023-06-06,East,Auto,False,66,Open,1598.26,55
+bbfe253c-cbe1-4cf4-b4f8-c1aab728ef17,2023-06-06,East,Auto,False,64,In Review,7851.48,69
+30d674f4-9e0f-4666-ba2c-ab9d240a9839,2023-06-06,East,Property,False,160,Open,5258.55,43
+d5b5d532-8cf4-41c6-b95f-a23d4c3183e6,2023-06-06,East,Health,True,197,In Review,7281.75,49
+82da2573-47f9-412c-aa7f-8255ea761fc0,2023-06-06,West,Auto,True,40,Open,1576.39,57
+6ab2a2d8-1c2e-4a89-9240-4256e9108fef,2023-06-06,West,Health,True,257,In Review,6766.39,79
+dbb1c007-d845-4c56-9cfb-b401241092e6,2023-06-06,East,Auto,True,263,Open,6289.21,63
+fabeaf56-4b41-4405-a610-79bc73c1771f,2023-06-06,South,Health,False,111,In Review,9068.26,66
+00764e6e-0081-4f3d-ad09-3bbd2a2bae3b,2023-06-06,East,Property,False,85,In Review,6785.5,52
+6b1ff8cf-f15b-4f15-b839-357bdc371c35,2023-06-06,West,Auto,False,244,Open,9113.37,71
+8fc7429f-60ce-4f26-a56e-0368c867306b,2023-07-06,South,Property,False,260,In Review,5681.63,23
+97d17c9e-5b01-473a-b377-ad437c7d590f,2023-07-06,East,Auto,True,41,Open,9170.34,76
+05ed9af5-a35e-4f71-b441-598d87453f69,2023-07-06,North,Health,True,58,Closed,5410.04,26
+e1091a9e-8ac8-483d-bdb4-259c4f189b03,2023-07-06,West,Property,False,201,Open,1823.35,53
+7596421e-9d44-4ad4-8881-65bffa33c0b4,2023-07-06,West,Auto,True,274,Open,8807.29,18
+391cfeca-9c59-4918-a65b-23f557c4d77d,2023-07-06,West,Health,False,190,In Review,1200.45,20
+67ee1f30-4bb8-4762-a14b-da60fd7afc57,2023-07-06,West,Property,False,275,Open,7217.68,23
+35dc1121-c4bb-4850-bbb3-361aa12a953e,2023-07-06,North,Auto,False,154,Open,2669.73,67
+23472fb9-daf5-4bf8-ba56-281a3a7139a3,2023-07-06,East,Property,False,98,Open,9603.27,37
+433bb8ec-6578-4978-ba09-1a048612929d,2023-07-06,East,Auto,True,91,In Review,2410.87,23
+27babb60-a554-4af1-9a45-c9669081630d,2023-07-06,East,Health,False,37,Open,5769.06,38
+b65121d0-9430-4297-b6e7-6081ca4a5d6e,2023-08-06,West,Auto,False,274,In Review,6013.43,58
+97746c5f-7407-4aa9-865d-9b6356102a64,2023-08-06,North,Auto,True,121,Open,3568.25,70
+95ecf072-a9a9-490f-b6f2-bff9f979f380,2023-08-06,West,Health,False,226,Closed,8238.35,24
+34c74b0f-3988-475d-b7ae-662b5347d50e,2023-08-06,West,Health,False,172,Closed,8611.38,61
+fb130dc4-7d71-4594-a517-8aa1818e924a,2023-08-06,West,Property,False,78,Open,2503.5,59
+34929e1e-5cbb-45b3-9a1c-fdb1d9e35cb7,2023-08-06,West,Property,False,225,In Review,3312.93,70
+f21d5bb7-940e-47c4-b308-21b249bca1f2,2023-08-06,West,Property,False,86,In Review,3634.67,59
+5a6ce0ab-26e0-42e2-a3d0-f4fe1b0feabf,2023-08-06,West,Auto,False,284,Open,9573.78,58
+9fd70271-9a9e-4d60-be16-049a52271df6,2023-08-06,South,Health,False,31,Closed,8749.57,38
+551b38a5-88b5-47a0-956b-c3ebe66ba820,2023-09-06,East,Auto,True,241,Closed,2427.73,20
+65f696b2-90e6-454e-a031-b21704cb0d3f,2023-09-06,North,Property,False,92,In Review,8862.18,32
+26fbf5f1-8a76-41f5-a582-0b1143504c6d,2023-09-06,East,Property,False,288,Closed,4626.01,48
+89ca4233-eb50-457d-ba57-cf2094ba534f,2023-09-06,North,Property,True,194,Open,4129.93,82
+c3d8df35-c14e-40e1-ba73-5dc8eb9e183e,2023-09-06,East,Property,False,59,Closed,8914.57,81
+a46cbf2b-486b-4959-886e-a890ecdcc5d1,2023-09-06,South,Property,True,213,Open,2393.34,64
+4a248193-fd2c-40ae-aecd-cbd3a93c9f42,2023-09-06,East,Auto,False,287,Closed,9125.89,29
+939a3690-4a57-44fa-80c4-dde546cbb3da,2023-09-06,South,Property,False,203,Open,1920.02,77
+8e9b0f0c-0106-44bb-b262-492d62f776d8,2023-09-06,East,Auto,False,175,Closed,8197.86,77
+cb40dd49-be14-45e3-98e3-d89594bf5b65,2023-09-06,South,Property,False,275,In Review,3160.76,50
+7cc5da8c-86c8-41b2-b262-00379454e4f3,2023-10-06,West,Auto,False,136,In Review,9523.36,32
+53cdee7f-e004-4d24-810d-e703d9727325,2023-10-06,East,Property,False,253,Open,5919.63,74
+12e0be43-771c-431f-a180-919a68c0b9d8,2023-10-06,North,Health,False,228,Open,7467.43,29
+a1eecd24-fee0-4bd3-b011-0c0aec278918,2023-10-06,North,Property,False,215,Closed,2008.89,42
+c29f7a6c-fd94-463a-b9b0-153e05604325,2023-10-06,North,Property,False,295,Open,5366.19,23
+e0b595a3-24c2-40cf-8571-1351657c744d,2023-10-06,East,Property,False,272,Closed,6029.57,55
+d1351761-7d87-434b-a716-55adb14e5209,2023-10-06,North,Property,False,239,Closed,1572.48,43
+f7a184cd-6d25-4cc6-910d-f9a89afe8816,2023-10-06,South,Property,False,96,In Review,2533.31,48
+7b76a65f-23c0-4e9c-9578-61ae05627d76,2023-10-06,South,Property,False,185,In Review,2294.51,37
+a1029f85-b094-4333-be2c-9b9b649ce140,2023-10-06,North,Auto,False,57,In Review,3840.88,56
+7dc617e9-3a0c-4ddb-bd71-889a791f14ec,2023-11-06,North,Health,False,159,In Review,3638.4,84
+73c2ca9e-5613-41e7-ac84-f97423045921,2023-11-06,East,Property,False,262,Closed,6647.56,74
+8ce76ae3-5330-4252-b1a5-3cd06abc3435,2023-11-06,North,Health,False,120,In Review,7066.53,57
+7b8f5ad7-28af-483f-ba9c-7deb988ca024,2023-11-06,North,Health,False,279,Open,7684.49,36
+41cfbb53-43ce-4624-bede-63c1aad889bb,2023-11-06,West,Property,False,194,Open,8412.93,38
+c5374d49-c9cf-41bc-83f8-55658ab4b206,2023-11-06,South,Property,False,233,In Review,4634.3,41
+e970a13b-f1db-4cd4-8aab-cb65e4c16b60,2023-12-06,South,Property,True,229,Closed,3268.63,81
+a36cae44-81ec-4e23-9f48-009453078907,2023-12-06,West,Auto,False,159,Open,2087.02,30
+881f63af-52e9-4472-98ec-f26a294e092a,2023-12-06,North,Property,False,52,Closed,4886.59,19
+cd344e29-c81e-4215-84d8-71577c1560b3,2023-12-06,North,Property,True,96,Open,1909.25,19
+f2c34d3f-9397-4882-83bd-909a28d65137,2023-12-06,West,Auto,True,83,Closed,2920.27,80
+78e422f9-fd08-4e23-b159-d7cf2c434bd6,2023-12-06,North,Health,False,76,Closed,7042.31,48
+b0cb3402-e57e-4386-a73a-21faf8b0cde6,2023-12-06,North,Health,False,286,Open,2144.63,63
+1e742ad3-ae8c-45fa-b8ee-f9330b8c0278,2023-12-06,North,Auto,False,88,Closed,1333.47,81
+d5b757cf-9f9b-4a71-a976-ef8013008ea4,2023-12-06,East,Health,True,290,Open,3507.11,31
+27a3bed5-571b-405a-b205-2610fe9d2531,2023-12-06,West,Property,True,81,Closed,2472.0,46
+7e136028-723c-4316-a30f-8067dc3195c2,2023-12-06,East,Property,False,146,Closed,7590.14,70
+dbf7640e-9a2b-41a7-959b-42ca9081bf1d,2023-12-06,East,Health,False,189,Closed,6648.0,69
+f210f8bd-6a5f-4b04-b770-2f4bd7fa8ff7,2023-01-07,South,Health,False,66,Closed,4015.83,30
+87c0d39b-5eb5-4da5-b7a1-a44b8983d8c3,2023-01-07,West,Property,False,47,Open,3370.27,49
+5e41d1eb-838a-4438-b7c9-2572e46d9a42,2023-01-07,South,Health,False,244,Open,4765.37,50
+2acc4bce-80f4-4832-ad09-79e616b07b79,2023-01-07,West,Health,False,133,Closed,6064.03,65
+dfa1c59e-7b70-4b2f-9e79-b0a857c7788d,2023-01-07,West,Property,False,60,In Review,2656.37,65
+7b90a3da-6059-4f66-9621-eef5ceb33916,2023-01-07,North,Health,False,109,Open,7459.84,26
+6da156cc-b51f-4b5b-aacd-1771565767c0,2023-01-07,South,Auto,True,193,Open,4357.06,68
+4f2cdddf-d02b-4509-832e-1ad31720856c,2023-01-07,West,Auto,False,61,Closed,9671.36,74
+97737221-30a9-4b44-b606-d00b5a654311,2023-01-07,South,Health,True,85,In Review,9173.71,55
+4d2e3a07-b95e-4360-aa82-e5d7b3bfedc9,2023-01-07,West,Property,False,215,Closed,3375.65,34
+4da5a816-2825-473e-9a0d-a11c534329db,2023-01-07,West,Property,False,189,Open,8829.15,57
+b0799ae3-5ada-4cfd-8b78-8e8c36502e8f,2023-01-07,North,Auto,False,256,Closed,9995.55,58
+0c8d54fc-83ce-4a47-8082-52c69f0247c2,2023-01-07,West,Property,False,190,Open,9834.21,40
+abc48a5b-b9ea-447c-bfcd-9b090934c601,2023-02-07,East,Health,False,74,In Review,8415.82,29
+6e31469c-d9b3-42e2-8393-eaebfc8cd61b,2023-02-07,North,Auto,False,82,Closed,9223.03,67
+93c92030-6343-4d45-9ab2-e90ed0b6928e,2023-02-07,South,Auto,False,208,In Review,4182.32,78
+1791d429-15d4-4bf0-b9b6-0424bc568e43,2023-02-07,East,Auto,False,240,Open,8080.0,44
+257442c6-37ed-47f1-8355-ac74b540970e,2023-02-07,South,Health,False,57,Open,7439.55,83
+8e85b207-cc07-490d-bc67-f0298feacb70,2023-02-07,North,Health,True,104,Closed,9784.72,19
+11dc3a75-ebbb-41a0-9043-ece74a05e8f2,2023-02-07,East,Property,False,228,Closed,5368.1,48
+649799df-4613-43ef-833f-95376fd9c647,2023-02-07,East,Property,True,211,In Review,9578.5,65
+b88b94e8-ec71-4f79-a070-ac3802f32baf,2023-02-07,East,Property,False,285,Closed,1716.77,52
+4f27b908-61d7-4f7c-bfde-e7fbd384cce7,2023-02-07,South,Auto,False,58,Closed,2121.53,31
+6be6719a-4dc2-46d1-996a-a4964adb7ff0,2023-02-07,West,Auto,False,218,In Review,4362.77,53
+fe3c22b0-443f-437b-83aa-209f9e127018,2023-03-07,North,Health,False,112,In Review,3853.66,61
+d7358450-6fb6-4373-8e4b-70e517900837,2023-03-07,West,Auto,False,161,Open,9350.29,76
+699921a2-6480-48bb-9003-282abc0f18de,2023-03-07,South,Property,False,149,Closed,6041.88,38
+339f1cd7-a6d5-4080-b8da-c93933aad6f7,2023-03-07,South,Health,False,165,In Review,9183.74,51
+f8355c00-77b9-4545-a515-6ae0eda9619d,2023-03-07,East,Property,False,116,In Review,2820.49,44
+8cabedf5-e48c-4c1c-9f86-fff71046dce5,2023-03-07,West,Health,False,249,In Review,9042.84,47
+6400376c-832d-4778-ba1b-a04acdb47b2a,2023-04-07,South,Auto,False,96,Closed,6023.21,60
+57f5be5f-f0ee-4dc0-b877-ca3acd46c5a7,2023-04-07,East,Health,False,68,In Review,9866.87,68
+8c18fe90-cfa1-4287-8ecf-502a5d25b7df,2023-04-07,North,Property,False,181,Closed,4069.15,71
+bcdac783-46b1-4129-9334-f71d77eeecc4,2023-04-07,South,Property,False,175,In Review,6248.76,62
+ac48eb27-0a01-4cc9-ae5b-e7d75822066e,2023-04-07,North,Health,False,49,Closed,9098.72,36
+68bf4bc8-63e5-435f-8b66-ed6821017b6e,2023-04-07,North,Auto,True,35,Closed,4033.03,72
+8ef1079f-2bd7-451c-bae9-b65b13306e55,2023-04-07,East,Health,False,160,In Review,9806.45,42
+a2e02343-d1ff-4181-9836-2a2400adde89,2023-04-07,West,Property,False,124,Closed,4745.07,23
+0479f3cc-4cef-46a8-8a96-59a7ed975e7d,2023-04-07,South,Auto,False,237,In Review,2452.75,44
+83e0ecd4-97ba-4748-8f40-d7a10d40710a,2023-04-07,South,Auto,False,78,Open,5790.21,40
+fd804117-2128-4058-9754-8f036acbb059,2023-04-07,South,Auto,False,219,Closed,5342.55,69
+f1119f4c-1d04-44a5-9295-a1cd2814364a,2023-04-07,East,Auto,False,75,Open,6004.47,32
+a5a09d7a-84c9-4b4c-a86f-5a9b84cc9a83,2023-05-07,South,Health,True,47,Closed,9243.35,38
+702d1ef3-d4b7-4eb0-a681-dba374bc3293,2023-05-07,West,Property,False,268,Open,2309.42,83
+163ed2b5-5836-403e-afdb-b953ea5ba8d0,2023-05-07,South,Health,False,100,Closed,3091.02,58
+095ac4fd-1bc3-421f-9fb5-b52bdd10f775,2023-05-07,East,Auto,True,289,Open,2073.06,63
+a30b4c3d-88db-4498-b26f-6590d673886e,2023-05-07,West,Property,False,165,In Review,8810.04,30
+17e563c0-c681-4428-ae96-803b0a570472,2023-05-07,North,Health,False,207,In Review,8692.72,69
+09bf126c-52ec-4255-89b5-c91cc8028a5f,2023-05-07,West,Auto,False,82,Closed,5451.38,45
+c5910ea1-f002-460a-9bf8-0b6252846aeb,2023-05-07,North,Health,False,230,Open,5098.28,29
+dcc1be67-27ac-4525-9b16-980991ee9600,2023-05-07,East,Health,False,206,In Review,4101.06,81
+a6a1aac9-ae19-4641-a145-e39a11c0a748,2023-05-07,West,Health,False,285,In Review,3047.42,68
+a3fcddfb-6d63-4ebd-94dd-563d7dae106b,2023-05-07,North,Property,False,104,Closed,7548.34,56
+b4abceed-8202-43f6-922f-df0071f00756,2023-05-07,South,Auto,False,261,In Review,5453.15,68
+404e1c49-0237-4803-8d15-44125f03e63b,2023-05-07,East,Property,False,42,Closed,1194.83,82
+be44b39b-c7e3-4d8b-9f1c-c9eca8f40472,2023-06-07,South,Auto,False,210,Open,7863.88,36
+c0f00c5e-ec0c-4dde-9af0-8b0c930974b1,2023-06-07,East,Property,False,128,In Review,3893.16,58
+22972bbf-2607-4d72-8862-60362a235989,2023-06-07,West,Property,False,268,Open,6664.19,40
+af728339-a3db-4f02-9a39-7fa18b5cb149,2023-06-07,North,Health,False,292,Closed,9017.44,79
+11d03071-5863-4d10-a266-6fd74ee236e6,2023-06-07,East,Auto,False,258,Open,7348.43,40
+02f9ea0c-b2ef-4f78-9207-80f186f88f01,2023-06-07,South,Property,False,202,Closed,6678.73,19
+d1192003-a294-488b-a4f8-ddb319491d98,2023-06-07,North,Auto,False,137,Open,3975.41,44
+8f2b9f84-b0fd-49be-8c3a-ee870796f40b,2023-06-07,East,Property,False,112,Open,3994.06,82
+e62eb731-e70d-4643-8b52-d2b45e340bbd,2023-07-07,East,Property,False,136,In Review,3400.33,48
+2fb1471a-7bc0-4d4b-86ec-ba68d26f4170,2023-07-07,North,Health,False,42,Open,1179.11,41
+cc960d52-aa7d-4c38-b655-0dca40974fc1,2023-07-07,North,Health,False,38,Closed,3120.8,47
+ef059aff-d7b9-481a-bcc9-a6967d74ac57,2023-07-07,South,Health,False,264,Open,7133.73,33
+58b56635-6fd0-4975-b3b5-57d56ea835e3,2023-07-07,North,Auto,False,177,In Review,9589.32,29
+15f33209-fe51-4ed9-b453-5da0f18d46d6,2023-07-07,South,Health,False,162,Open,9300.08,43
+fe5b0cb4-52bb-4eca-acc0-390f4195263c,2023-07-07,East,Auto,False,30,Closed,4873.8,75
+635a5846-b41b-4b6a-b54b-bc531c234fb4,2023-07-07,East,Property,False,106,Open,1973.11,23
+254ab198-37b6-45d2-a879-05c5d259af22,2023-07-07,East,Health,False,116,In Review,6918.11,28
+d50c3a01-3f06-42c9-ae5a-0c559dd82485,2023-07-07,North,Property,False,82,In Review,8042.61,34
+5c2f8689-3661-4f60-a2fe-db74fcbf9ed4,2023-07-07,West,Health,False,253,In Review,8385.65,84
+1e8eab40-fe09-4f1f-95d5-58d63eef98e2,2023-07-07,South,Health,True,107,Open,9172.31,61
+eb511c9b-2d65-4df9-85bf-470149974960,2023-07-07,East,Property,False,111,Open,9214.31,65
+0b3a0c8d-d1bb-412c-bc23-96854b2575ba,2023-08-07,North,Property,False,137,Open,7350.36,40
+f083727a-c1be-4a7b-86e6-47408c1836ba,2023-08-07,North,Health,False,107,Open,8078.94,77
+9fbf7af6-bf46-442b-8573-782dc1d27053,2023-08-07,East,Health,False,273,Open,3610.83,77
+50e5ba34-58cd-47a5-a698-ab6cf10167b8,2023-08-07,South,Auto,True,140,In Review,9253.7,31
+83a26b6c-5359-4c87-84a8-4208166f34bf,2023-08-07,South,Property,False,123,Open,2278.55,53
+4085a570-58f6-4967-ad75-982a7c35a7c7,2023-09-07,South,Health,False,299,In Review,5388.39,82
+e7dd8c90-f554-4594-b951-69dba215988d,2023-09-07,East,Property,False,54,In Review,6603.63,43
+f3bb0176-5734-4c05-8beb-0b924dc294c5,2023-09-07,West,Health,True,292,Closed,6394.86,36
+d0de30fc-ecb2-4254-8d98-66ca2a28cdbd,2023-09-07,East,Property,False,190,Closed,4422.17,74
+a709f7b9-3ca4-49e1-b54f-e4dcaab9f22b,2023-09-07,West,Health,False,153,Open,4285.23,23
+3f917a1c-86ba-4e4a-a189-5bbfb28d82ca,2023-10-07,East,Property,True,76,In Review,2605.58,46
+09e2de14-cc17-41a4-ba70-5f660601b633,2023-10-07,West,Health,False,287,Open,8695.8,27
+46459d6e-7d66-4cdc-96c6-1eece4472ae0,2023-10-07,West,Health,False,50,In Review,2747.37,77
+ce9713f0-2a1d-4d8d-9b92-7ee938f0ace1,2023-10-07,West,Property,False,230,Open,6817.62,68
+5a11d6c7-559c-4537-a128-87ec419379ba,2023-10-07,North,Auto,False,181,Open,9723.24,74
+ce2661c9-f191-48a6-90f3-ca844547ef2d,2023-10-07,West,Property,True,239,In Review,6110.57,60
+3336c0dd-7b96-4ea2-a1e1-be61dd3f81b3,2023-10-07,South,Property,False,49,Open,3135.86,41
+5e0e1147-fa41-45eb-8c7d-70e17642e37f,2023-10-07,West,Auto,False,183,In Review,4764.38,23
+a7817b42-a244-4752-a9ec-28285273dcf2,2023-10-07,East,Property,False,257,Closed,3946.39,55
+e106a6e7-b866-4fed-ad13-226258fe835b,2023-10-07,North,Property,False,143,Open,3669.59,62
+a21e5830-68cc-49b6-b8d7-f50f459c10f0,2023-10-07,West,Auto,False,186,Closed,6939.7,41
+ff544d47-48a5-4046-8576-d805382cf371,2023-10-07,East,Property,False,218,Closed,7836.06,23
+be37e79d-ec1b-45a5-8c81-8c6f1cfdf4ac,2023-10-07,South,Health,False,149,Closed,5283.84,42
+000416e5-c1ec-48ea-9662-8b3b7f7c9088,2023-11-07,South,Property,False,295,Closed,3607.64,71
+64d7622a-5ca4-4cb0-8084-c942a1a7dead,2023-11-07,North,Health,True,166,In Review,5545.52,31
+2b7d6862-d2a0-4a43-bdb0-731deed06bf3,2023-11-07,North,Auto,True,197,Closed,7264.31,50
+9430753f-5767-42d7-8614-a9c123ab00a3,2023-11-07,West,Property,True,79,Closed,8677.12,73
+f2a18dd5-5ab0-4356-b55f-a6fb749ecc34,2023-11-07,North,Property,False,110,Closed,1450.17,44
+0bca3bf5-87e9-478b-bb62-830f783a03e0,2023-11-07,West,Auto,False,36,Open,4732.28,75
+4ab3defc-ab58-4d30-acf1-7e411238d9c7,2023-11-07,West,Health,False,42,Closed,2270.49,68
+72b902cf-093b-4a01-b3f8-90bd8c2aa5e8,2023-11-07,West,Auto,False,32,Closed,3734.26,62
+3f9fd253-e398-4f0b-adea-31b2c4c1db2d,2023-11-07,South,Property,True,142,In Review,1593.36,40
+2ed19039-9566-40b9-a60f-46925b29eb87,2023-11-07,East,Auto,False,262,Closed,5615.94,80
+a9c95257-95c2-49aa-b833-6993fe8f15e7,2023-12-07,East,Property,False,206,In Review,7286.32,56
+6c78f3fd-e2a4-48bb-b9c7-08e4581f51de,2023-12-07,North,Auto,False,38,Closed,7658.17,43
+7b280f36-97ee-40b1-ad0f-82b7062e49a2,2023-12-07,West,Property,False,67,In Review,2139.06,47
+bdf86478-ac2e-483b-b28f-fb6c15e43e09,2023-12-07,South,Property,False,41,In Review,9029.01,55
+e51dee69-9306-43e4-9e21-4be66e2b556e,2023-12-07,North,Health,False,209,Open,6371.71,77
+57fd5bd0-e248-456b-8658-01518ad025d8,2023-12-07,North,Auto,True,175,Open,6329.11,77
+ee1c8fc8-c64b-4246-b9a0-2352545f432c,2023-12-07,South,Property,True,142,Open,9148.36,20
+16cf37d6-b940-4c51-a6d2-48052ec99b63,2023-12-07,East,Property,False,275,In Review,2433.55,36
+16b119b6-3255-413e-80db-d097d64f6a65,2023-12-07,South,Property,False,56,Closed,8724.62,67
+e619ff32-ce25-4123-8fea-e74f17c4331d,2023-12-07,West,Property,True,70,Open,5723.35,80
+5c5436c1-a6d7-437d-98dd-b2dc8f2a3cf7,2023-12-07,East,Auto,False,61,Closed,4090.79,55
+a02939da-7e10-4cbd-92f6-dad22592cd2e,2023-12-07,South,Auto,False,72,Closed,8705.32,48
+3e45f4e6-5864-46dc-bc44-8eb42d98e3bb,2023-01-08,North,Health,True,37,Open,2134.92,68
+f373b0a0-140f-43c8-9c53-5c02367683c4,2023-01-08,South,Health,False,271,In Review,6346.94,72
+e557f60b-48dd-42a8-b64e-e98f84ed7228,2023-01-08,South,Auto,True,215,In Review,5160.3,67
+72014ac7-1e86-4acc-8b10-ba9b5040d0e8,2023-01-08,North,Auto,False,291,Closed,9578.6,72
+b464cf5e-97b9-4c5f-b891-debde8facc45,2023-01-08,East,Auto,False,299,In Review,5721.27,54
+88d6e4c5-4a8c-4c96-a7a2-44fe68b63b07,2023-02-08,East,Auto,False,140,Open,4726.62,36
+96de82e8-db50-45ad-82fa-2882e32b49ff,2023-02-08,North,Health,True,35,In Review,3370.63,20
+2d511ac1-4040-4768-ba20-e9555e173eba,2023-02-08,North,Property,True,114,Closed,3484.68,56
+99d3c24d-58d1-4231-9510-fa447fa6f9bc,2023-02-08,West,Property,False,279,Open,9531.44,79
+22092cec-605a-4ab4-a55d-1d07898d16cd,2023-02-08,West,Health,False,185,Closed,3256.59,24
+f49e60cf-4cc4-443e-a44a-7738810ba167,2023-02-08,East,Property,False,271,In Review,3198.07,31
+7e6caebb-b02e-4541-9207-7d50425d8200,2023-03-08,East,Auto,False,179,In Review,3648.9,81
+038689b5-43ff-4c0f-8265-518b9baaa017,2023-03-08,West,Property,False,270,Closed,2935.64,72
+ca603bab-a96a-464f-8034-7e8946eeebda,2023-03-08,North,Property,False,136,In Review,8250.73,30
+d8592996-563e-404c-8b8d-ef7154455bad,2023-03-08,West,Property,False,272,Closed,2156.54,47
+2092e929-fbae-4912-b7b5-b19af818e648,2023-03-08,North,Property,False,219,Open,4260.06,56
+3cf63eba-1d76-46b1-b8d8-8c8ca39f9d2b,2023-03-08,West,Health,True,116,Open,3466.49,53
+c2fed42d-0c06-466a-84dd-ae6b9da06196,2023-03-08,West,Property,False,75,Open,5125.39,49
+a37657ec-5b2c-4230-9983-f7317b360c7a,2023-03-08,North,Health,False,276,In Review,7292.6,79
+19b52e5b-66bd-45a7-bef3-a939e6ae7266,2023-04-08,South,Auto,False,61,Closed,5541.78,80
+05ea7274-6937-4d4f-8330-dc031922f4ca,2023-04-08,East,Health,False,140,In Review,4171.88,53
+28a80d55-9908-4a5a-842d-0bff25c4cd30,2023-04-08,North,Health,False,267,Open,1665.67,19
+4b0ee06a-1a5a-47bf-8eaf-e62a102dd448,2023-04-08,North,Auto,False,252,Open,9988.75,32
+81ec77b6-41de-4282-b0e4-d53d34d73ec7,2023-04-08,West,Property,False,280,Closed,8156.27,62
+c4988309-90d0-4120-a139-28d27bfe480d,2023-04-08,West,Health,False,81,Open,7193.02,31
+f0c1adbc-59d8-4556-95a9-5bbca889238d,2023-04-08,North,Auto,True,286,Open,9149.41,67
+86ea1da5-b0e5-4228-b10a-1a0e30e202cd,2023-04-08,South,Health,True,216,Open,6208.46,57
+6ec9740d-6343-43a3-bc5f-455829e530a5,2023-04-08,North,Auto,True,38,Closed,3440.6,42
+c93d7af0-4b5c-4773-a722-5e7994b705ff,2023-04-08,South,Health,False,132,Closed,6881.4,74
+1d7695af-021b-4b3b-8d29-e09ef5d3cc7b,2023-04-08,North,Auto,False,49,Open,1404.42,46
+7189c7ba-976a-4934-8157-7d093a4f9c99,2023-04-08,East,Property,False,192,Open,9860.21,32
+ba2ef167-6fac-4152-98c4-a281b8f5fac7,2023-04-08,South,Health,False,161,Closed,1628.07,51
+c683586d-ff8d-4d5a-9d0d-f3133104c219,2023-05-08,East,Auto,False,191,In Review,2855.32,72
+d5229973-e7c8-43e8-9a47-c500010117b7,2023-05-08,South,Health,False,233,Closed,7779.34,84
+f9f92ca0-06bb-4f34-be9e-799ef7889a7b,2023-05-08,West,Health,True,210,In Review,2740.44,44
+f9cdfa65-fa8f-4a46-b2fe-72160e4168bb,2023-05-08,East,Property,True,291,In Review,7391.31,80
+ca27a94c-adbb-41de-8715-9f55e6a945e2,2023-05-08,North,Auto,False,50,In Review,7377.21,46
+83afe167-cf1d-40dd-928c-d70ae52178f0,2023-05-08,North,Auto,False,240,Open,3767.16,69
+8842a859-4603-4c40-b663-2fdde68fccdc,2023-05-08,North,Auto,True,44,Closed,1545.07,49
+fe87ff09-5128-4142-a5f3-a5b3d2f45593,2023-05-08,North,Auto,False,274,Open,6247.9,82
+55a89475-db3a-4fcd-a159-7f4976b48c21,2023-06-08,South,Property,True,95,Open,5655.58,40
+10bb5dd7-fd98-42c1-8f55-9f70e7ba9d37,2023-06-08,South,Property,False,80,In Review,5027.58,52
+42ac0866-1e61-4e27-8422-2b231bc35a7e,2023-06-08,North,Health,True,172,Closed,3155.4,65
+b4076e09-9774-406b-a346-216ace28b372,2023-06-08,East,Property,False,34,Open,8721.62,40
+ea33f29d-87f2-4ba0-8e36-7a671c65562c,2023-06-08,South,Auto,False,121,Open,1852.17,50
+59abad95-b65c-4b0a-a02d-459910957d31,2023-06-08,West,Health,False,270,Open,7031.81,36
+6f13b9d8-7142-4c68-baa4-160bc11ec980,2023-07-08,East,Property,False,40,Closed,7058.45,34
+6310fdcc-ff9a-4390-844c-dfbe2cdf091e,2023-07-08,North,Health,False,203,Open,9953.32,80
+43407415-0ce5-453f-9587-f620218434cb,2023-07-08,North,Property,True,99,In Review,3701.73,63
+88c211c8-928f-427a-bb95-ef2daf8c7ea3,2023-07-08,East,Property,False,278,Open,7959.78,65
+aaf8872c-f9c1-40c6-a0a1-dfdbb8cba2cf,2023-07-08,West,Auto,False,195,In Review,4927.16,72
+ac163c96-0bda-4e55-9ccb-d89d82a9b60e,2023-07-08,North,Auto,False,119,In Review,3190.09,39
+ae30e236-2dc2-4330-a8cd-61cc7f7498f5,2023-07-08,East,Property,False,135,Closed,9275.78,56
+71d0640e-9c2c-4e98-a3fd-6e2105c54ffa,2023-07-08,South,Health,False,226,Open,8592.87,30
+c82975d3-a670-4213-b37f-6139be316569,2023-07-08,North,Health,False,131,In Review,7035.97,65
+9bdc38bb-b31a-4240-9bd7-61a3d0e8ad1c,2023-07-08,East,Property,False,163,Closed,9322.38,25
+e2c74f5f-4a2f-4b34-a489-271031bf9582,2023-07-08,East,Property,False,209,In Review,8112.2,41
+a5bb6d2e-3ed4-48c6-8ea5-3c99570d5c70,2023-08-08,South,Property,False,118,Open,8451.41,83
+a2a95d19-b892-42cd-9fe1-0ad081b3ff98,2023-08-08,South,Auto,False,181,In Review,1731.51,40
+3fddc797-4590-4300-8ac8-71af3d6b908b,2023-08-08,North,Health,False,119,In Review,5267.44,75
+7a0532f9-72fe-49fe-b9d9-f05d11f43c83,2023-08-08,West,Auto,False,157,Open,2245.98,69
+c4986a60-35e8-49f8-bb46-87360195999a,2023-08-08,South,Auto,False,234,In Review,2069.84,26
+6f20553e-b488-4532-9dce-24f69e541878,2023-08-08,East,Auto,False,135,Closed,6397.34,81
+af204a44-5c51-4585-9b67-b9a57dcae0da,2023-08-08,North,Property,False,178,Open,1603.25,21
+d2f812dd-fd10-4afa-8f94-488f2877f241,2023-08-08,East,Property,True,53,In Review,9773.85,30
+fc02233b-c52b-4d27-99e2-c38c0dbce703,2023-08-08,North,Health,False,105,Closed,3047.63,47
+9d72ef88-a835-4d34-b38d-1fdf469b6ca2,2023-08-08,South,Auto,False,258,Closed,9234.39,76
+bd9759be-3d0c-41f1-aadd-8cd6221762d0,2023-08-08,East,Auto,False,297,In Review,8580.25,78
+dc82c695-a808-463f-8ed8-a90d3f42c884,2023-08-08,South,Property,False,251,Closed,7635.84,66
+b4a8330a-0363-4b69-bc00-873a3d48667c,2023-09-08,East,Property,False,64,Open,6090.08,41
+fefc07a5-d3ac-497c-9f4e-efe02c4e722c,2023-09-08,East,Auto,False,119,Closed,7339.47,43
+07709c26-9afe-453a-a95e-451bd412a4fc,2023-09-08,South,Property,False,155,In Review,2560.5,76
+d3f4f33e-8f91-43d8-842b-fe0ef4b5636d,2023-09-08,North,Health,False,146,Closed,9940.36,60
+038fc9ad-df6d-4543-93fb-9bd1f6220a65,2023-09-08,West,Health,False,32,Closed,7106.17,69
+d8f63231-ee34-4de1-b6b7-b10c94571e2b,2023-09-08,North,Property,False,184,In Review,6302.05,76
+da7f8560-d057-4dc5-8546-6b9e0eed23dc,2023-09-08,West,Auto,False,137,Open,4994.31,66
+19a8cf6a-3795-44cf-8fe1-cfa8f78a6557,2023-09-08,North,Health,False,54,In Review,2423.19,83
+0699753f-5057-45bd-a465-dbcc11263c95,2023-09-08,South,Auto,False,186,Open,3475.36,37
+05335efc-bc96-490e-a50a-a75f82ba3986,2023-09-08,East,Health,False,288,Open,4706.09,77
+69714b53-98d8-4f0a-bebb-9eb8bf39da94,2023-09-08,West,Property,True,154,In Review,9640.11,30
+10029da9-6ed7-4aa4-a5be-4a96a1511ee9,2023-09-08,South,Property,True,260,Closed,9447.3,42
+7fcb4d1f-b482-4b99-8612-4a0d835bc26a,2023-10-08,West,Property,False,222,In Review,1764.73,57
+74ed9640-9af4-497f-b5fc-4c606e85c097,2023-10-08,North,Auto,False,273,Open,8124.18,60
+c473ee96-1132-450d-8662-6631ad3bb97b,2023-10-08,North,Health,False,183,Closed,8867.64,18
+76317bc0-4dce-471a-8dc7-5296eccd95fd,2023-10-08,East,Auto,True,136,Open,2570.91,31
+c0772dca-dd15-4a93-a1e0-79c9ab7d5adc,2023-10-08,South,Property,False,156,Open,9768.18,23
+14bfd4e8-23df-4f03-9051-53e223053ba8,2023-10-08,East,Health,False,224,Closed,5521.59,18
+a102a9d1-0864-4559-a8af-a23bd0f364e0,2023-10-08,West,Property,False,56,In Review,7771.98,83
+c9e15236-3c94-47fd-bb16-6dd463253a92,2023-10-08,East,Health,False,68,In Review,5079.7,20
+fb022747-dab2-41f5-b155-6abc877e807e,2023-10-08,South,Property,False,288,Open,3086.61,80
+ab74ce23-5cd7-415e-9bb6-01ee8356b4fe,2023-10-08,East,Health,False,219,Closed,7539.47,63
+473cd86d-c70f-4517-b967-e6066a029db1,2023-11-08,South,Property,False,195,Closed,9570.71,52
+4817d189-bed2-4390-9f9e-63e3f64d9e52,2023-11-08,South,Property,False,80,Open,4855.09,29
+0bed4a82-7f84-46cd-b4c4-6b4b07d18717,2023-11-08,East,Health,False,144,In Review,9620.37,40
+f301e6e5-bc9f-4815-b247-6c7882da4da0,2023-11-08,West,Health,False,69,Closed,6228.23,24
+60190ea6-e020-48a3-bd6e-da1d72563d31,2023-11-08,North,Property,False,53,Closed,8268.0,50
+9fb6b498-ebc3-4a9b-922a-df3359997167,2023-11-08,North,Auto,False,74,Open,6707.71,68
+6da3fe55-f8e0-4912-b873-6ec26f7bbb74,2023-11-08,North,Health,False,226,Open,4059.06,34
+b8659311-143b-4dc9-832a-df629ba2e4b4,2023-11-08,West,Health,False,47,Closed,9815.06,25
+52aed123-9a12-4338-b4b3-c4197be756e0,2023-11-08,South,Property,False,91,Open,4938.54,59
+266ef6a7-8b31-4ba8-86f9-05751a329ece,2023-11-08,North,Health,False,68,Closed,8380.53,67
+d0301cc4-304c-4657-813d-cb7094561bd2,2023-11-08,North,Health,False,248,Closed,8100.56,23
+43d225f7-ae47-424b-8002-e18d9cba523f,2023-12-08,South,Auto,False,128,Closed,6213.41,70
+ec5d714f-70ad-4ac4-ad42-2414323d65eb,2023-12-08,West,Health,False,97,Open,3467.56,25
+414cd5d8-b8d5-450f-9591-e5e0560fad9f,2023-12-08,North,Property,False,152,Closed,1320.45,62
+eece60fe-03ce-4b53-9bd0-9c77de4fbc55,2023-12-08,North,Health,False,162,Closed,9647.7,75
+a07985c6-30fe-49b7-80cf-f546016e1bb1,2023-12-08,North,Auto,False,98,Open,1254.38,66
+c2c614b8-5a60-4fc2-8941-58d6a24e7936,2023-12-08,West,Auto,False,99,Open,4810.03,24
+b32b28ac-2573-4fab-9871-ce0baf6c6c7a,2023-12-08,East,Property,False,37,Open,3916.25,83
+93665dff-6750-4819-ba2a-d42e45252768,2023-12-08,East,Property,False,271,Closed,4391.38,50
+772fbd4d-ac82-4d0a-9611-b6c731a020c0,2023-12-08,East,Property,False,90,Open,4392.06,22
+e07259ed-9fa9-4c1d-81ce-a9b7c2baeb68,2023-01-09,North,Health,False,36,In Review,1891.51,81
+fd115eb1-ff41-4e55-8af1-cd6aa431824b,2023-01-09,North,Property,False,121,Closed,7235.28,30
+c42b4371-7cb5-48eb-87f0-1a39eafd5a91,2023-01-09,East,Auto,False,186,Closed,7817.34,36
+62f90236-9d3f-494d-9032-68d86282b6af,2023-01-09,East,Auto,False,235,Closed,4161.51,57
+e5cf4aca-9f93-4f8f-8974-23519c5930e2,2023-01-09,South,Auto,False,250,Closed,3120.78,20
+036ea0b4-536f-45ab-96f8-80792c099eae,2023-01-09,West,Health,False,264,In Review,4274.43,81
+da2c972c-e4f8-476d-b3ac-e00a05089b5d,2023-01-09,East,Auto,False,273,In Review,5573.42,20
+85de4e5b-d439-4db0-8b74-23d7c312ecf7,2023-01-09,East,Auto,False,142,Closed,3757.71,36
+c2ad74a6-20fd-415e-a87f-b2a43caa2884,2023-02-09,South,Health,False,43,Open,1769.4,44
+c003b1dc-f1a1-4f8b-8ea1-ff844bfddca2,2023-02-09,North,Auto,True,297,Closed,1289.94,51
+8c4be33a-f31b-4f0e-be0e-a92b55cdc131,2023-02-09,East,Auto,False,185,Open,9837.26,27
+4991583e-c7db-4375-a639-8942bd4c3917,2023-02-09,South,Health,True,254,In Review,3254.58,35
+086fe708-7fab-4f07-830e-16ee13324f6a,2023-02-09,East,Health,False,59,Open,2867.13,51
+0a7d1c72-bf91-4559-ac34-78a532d901d0,2023-02-09,West,Auto,False,257,Closed,7607.35,66
+182f0f19-f22c-4e6b-839b-dbac1ef2ac00,2023-02-09,North,Auto,True,75,Closed,7318.32,22
+01f6f5af-0179-40af-880e-10193721e8ce,2023-02-09,East,Property,False,141,Open,3453.67,24
+2bf8b24f-7215-49c4-b60c-18f52a4f5c22,2023-03-09,West,Property,False,111,Closed,9068.59,32
+5ddb706f-822a-4d42-9f3c-4aaaf64e8b6c,2023-03-09,West,Property,False,294,Closed,3929.22,74
+47c72354-7bf4-4f5c-b0a9-5a9804c521d1,2023-03-09,West,Property,False,128,In Review,2681.0,27
+f8c83eab-530d-4e60-96b5-928f9d84ee5e,2023-03-09,West,Health,False,245,Open,2238.75,80
+af3b2b1a-7262-45ac-9c75-21312a5c58bd,2023-03-09,South,Property,False,103,Closed,7218.29,30
+d8d8c3fe-3fc1-4aaa-81d7-f6a15fd54b4e,2023-03-09,South,Auto,True,150,Closed,5025.62,37
+0bfde4bb-90a0-4231-b38f-b4d6cc8418e3,2023-03-09,South,Auto,False,108,In Review,7727.44,51
+26adc3f8-f4f1-4668-b53d-ee83ba6637b1,2023-03-09,South,Property,True,247,Closed,3914.65,72
+59fb8c85-45d4-4eae-8997-86b0583adf07,2023-04-09,West,Health,True,182,Closed,5827.87,78
+0fabce16-866d-43a5-9942-ce7a5e033c2e,2023-04-09,West,Property,False,33,Closed,9345.39,60
+8966cb71-6ea7-4f25-90f7-92f7bd91a3ac,2023-04-09,South,Auto,False,157,Open,2679.02,21
+3d2497a6-dccc-4952-a503-c5f406febe71,2023-04-09,North,Health,True,272,Closed,2135.04,74
+0d693b9f-a42b-4902-8325-7eca59209b03,2023-04-09,North,Health,False,71,Open,7063.86,75
+f8e0bc81-948a-4e3c-abe2-7179e46a3264,2023-04-09,West,Health,True,96,In Review,3663.93,67
+8d1ac92f-bbdb-4b78-8d83-188fbbd8c3c7,2023-04-09,West,Health,False,228,In Review,5589.03,34
+8ad898d3-8392-4e38-bf03-7b3e364c27ad,2023-04-09,North,Auto,False,106,Open,9291.23,23
+756e31a2-8cd9-4d17-af27-46375084438e,2023-04-09,North,Health,False,259,Open,8288.84,61
+251c8fe5-8211-47b2-a360-214c95d687b7,2023-04-09,South,Property,False,78,Closed,7002.73,83
+48fbbb02-123c-42b6-a6d9-3a5f44a90ac3,2023-04-09,North,Property,False,188,In Review,7521.68,37
+9d5871a8-5840-4c36-961c-c7b4bdf74a0d,2023-05-09,East,Health,False,125,Closed,3316.7,62
+cf29c6b3-e56b-4dcd-afdd-b646bbcdc496,2023-05-09,West,Health,False,97,Open,6868.74,65
+5b115415-00aa-48d9-9c00-9e5f00a032e1,2023-05-09,North,Property,False,65,Closed,1158.09,35
+a49f1597-eddf-4cbe-af3b-6297747aa9d5,2023-05-09,North,Health,False,223,Closed,6710.08,54
+ea6fb641-4d78-4fd4-93e5-9a4c91edeb2f,2023-05-09,North,Health,True,280,Open,3777.47,69
+ea6bd233-18b5-417f-a1b5-17264da5ab7c,2023-05-09,West,Health,False,274,Closed,1574.43,81
+585ab144-d0ec-4c14-905f-9f1820dc66d8,2023-05-09,North,Auto,False,79,In Review,7574.2,29
+f2bdcd60-9921-4955-bec3-0444c3785043,2023-05-09,East,Property,False,279,Open,7246.59,56
+d98e17bf-4518-4106-aa93-e53d190fc273,2023-05-09,South,Property,False,267,Open,7297.92,70
+cb2c0681-ac29-4db8-a438-f9da5c8c43f5,2023-06-09,North,Health,False,280,In Review,7319.92,58
+f1815d91-7aab-4ac8-9a73-7f8d23213867,2023-06-09,East,Auto,False,233,Open,8527.32,76
+6250ca13-8776-4702-b3f3-588ed8d9aa16,2023-06-09,East,Health,False,170,Closed,2844.82,63
+89643c40-d240-4bc7-a563-09c9ca5cd288,2023-06-09,North,Health,True,118,In Review,3619.03,38
+f7a6ff0d-31b4-45ad-8e7b-d3b409d89839,2023-06-09,North,Health,False,120,Closed,3657.22,79
+f18f6fb6-47ff-449b-9733-59b5eb00a58e,2023-06-09,North,Auto,False,162,In Review,4393.32,79
+b73f7433-5846-4bbb-a81e-adf34c4879d7,2023-06-09,West,Property,False,172,Closed,8197.67,61
+4d2d241d-95fc-47bb-92d8-83e92ebed784,2023-06-09,West,Property,False,189,Open,4786.14,28
+5ee753c8-9158-40ca-9720-079d988ad8e9,2023-06-09,West,Auto,False,272,In Review,2642.78,38
+643e86f7-64ca-480d-9a28-11fb74e43acc,2023-06-09,East,Auto,False,169,Open,3703.27,63
+9378078a-6289-4eac-bbc0-7ccb1d142588,2023-07-09,East,Health,False,146,Open,8886.74,23
+1f740783-7735-4df4-80de-bc103668f7a8,2023-07-09,South,Property,False,124,In Review,6550.41,84
+115222e6-b4d7-4f51-907f-b45278cef585,2023-07-09,West,Auto,False,284,In Review,7145.02,81
+0bcf50b8-16cd-482a-9176-4d6bef03d241,2023-07-09,East,Auto,False,258,Closed,3389.82,24
+c483b03e-9f45-4214-aa43-e4f5f355c64b,2023-07-09,North,Auto,False,163,Closed,8333.8,32
+4660bb04-28b3-41c9-a9f7-b6a9a70bf2e9,2023-07-09,West,Property,False,276,Open,2477.95,49
+253db13a-5d74-46f1-8be9-18c448fee69c,2023-07-09,South,Health,False,283,In Review,7185.49,56
+7a2519ec-cfcd-44b3-a149-9bf258f6fee4,2023-07-09,West,Health,False,48,In Review,7728.17,38
+e2e43134-28bb-4291-841f-3f3abd1923d7,2023-07-09,East,Health,False,127,In Review,9696.28,45
+635c6490-cce1-4b90-ab72-e3a0821b8c6d,2023-07-09,West,Property,False,131,Closed,7038.45,56
+f7d98f10-f25a-4c6d-bbc7-45a3ebc508b9,2023-07-09,West,Property,False,93,In Review,1748.96,30
+7d552c63-cb7a-432f-a1bc-ae3c8417fc66,2023-07-09,North,Auto,False,71,Open,5145.97,22
+1b26d64d-1147-4634-8364-7fd9baa9abb5,2023-07-09,North,Health,False,243,In Review,3737.64,23
+69c078a4-988e-40d2-bd56-d2dd09cfe6ab,2023-08-09,West,Health,False,214,Closed,8979.6,69
+5cfe51ee-27b5-4ab9-92f3-7f66e08287d4,2023-08-09,North,Property,False,75,In Review,4132.68,34
+7816f8b8-d062-4241-acbc-b3003204d341,2023-08-09,West,Health,False,179,Open,1473.9,49
+e51f99a8-364b-4129-a8bd-b715ea144ba8,2023-08-09,West,Auto,False,185,Closed,1574.88,43
+0770126d-a48e-42e7-bed2-d6e220968f1e,2023-08-09,West,Property,False,292,Closed,8654.08,75
+6e2577b6-994b-4279-b300-4a31a859ca59,2023-08-09,West,Property,False,80,In Review,6882.06,77
+2dfda842-0235-426a-8233-4ead0cb2c0e2,2023-09-09,East,Health,False,209,Open,2199.04,19
+4554a279-e214-439e-b215-00193bcd5b67,2023-09-09,North,Health,False,269,In Review,1257.35,55
+22e063f5-7dc7-48d0-8ddc-bad45f41a7d1,2023-09-09,West,Property,False,222,Open,1947.81,23
+49233acf-86cc-4241-80d9-908c6fa4bd3a,2023-09-09,East,Property,False,280,Closed,9453.02,55
+d9e01a24-1541-45ed-b975-59035cb74896,2023-09-09,North,Auto,False,112,In Review,7691.58,48
+18e87779-c8d4-4af2-8769-1652f94beb31,2023-09-09,North,Property,False,198,In Review,6016.11,62
+784d1b73-9a18-410c-9c62-e344e2499b69,2023-09-09,East,Property,False,297,Open,7720.49,66
+10c29a0e-14e6-4e84-ac6c-47a12417b79f,2023-09-09,North,Health,True,152,Closed,8605.97,43
+c1108ce9-d995-4788-931e-9b58113793bc,2023-09-09,East,Property,False,247,In Review,4760.58,26
+cc2fa445-9fbf-4ed2-bc7f-26c3b4bceffa,2023-09-09,East,Health,True,225,Open,7766.44,22
+47b2f04e-8a17-4349-bf1b-8e8b78dbae1e,2023-09-09,East,Auto,True,99,In Review,6017.27,51
+847efcf5-c7a4-4433-a464-25b033e90739,2023-09-09,West,Health,False,48,Closed,7072.13,45
+9e20917f-214d-443e-b32b-f13058d454c6,2023-10-09,South,Auto,False,102,Open,7510.23,75
+d9ff8e26-452f-4861-8355-e55644b70052,2023-10-09,West,Property,True,36,Open,2622.21,59
+9d542564-6b83-4a71-a18a-ebe7c4a24362,2023-10-09,South,Property,False,37,Open,2476.36,24
+57b3aa27-0851-43c7-9f96-b045419ba026,2023-10-09,North,Property,False,201,Closed,6026.65,75
+20704b20-1fd5-4de6-850f-8b88cc5b2942,2023-10-09,West,Auto,True,144,Closed,5336.39,51
+8855ec5d-653e-4022-9a20-4e7d3517dab5,2023-10-09,East,Property,False,162,Closed,2614.18,46
+03c909e5-42a1-4267-9a45-8d0e10232608,2023-10-09,West,Property,False,86,Open,1358.25,79
+562dfcb1-c955-490a-9ce4-3310f80a7245,2023-10-09,East,Health,False,216,In Review,9521.81,66
+7eeb0f41-1108-4413-b449-e11fb9a859b8,2023-10-09,North,Property,False,172,In Review,7407.13,28
+7ee34fda-226c-4c6e-bc4b-9645affd93b8,2023-11-09,East,Property,False,243,Open,5448.47,47
+bab7d79e-f73e-4237-bcae-bd0fd7d8b01a,2023-11-09,West,Property,True,187,Open,3803.46,76
+a2921be5-74ee-4576-b689-afd963e4a996,2023-11-09,South,Property,False,175,In Review,1762.03,75
+01ce4f0f-5909-48df-b993-cc58f4ed8cdb,2023-11-09,North,Auto,False,129,Open,9587.38,48
+dda49328-2d0b-47dc-bf30-c24792efcaf1,2023-11-09,North,Health,True,150,Open,3863.19,68
+c74a85a5-585f-4391-abb5-49366fc79846,2023-11-09,South,Property,False,199,Open,4821.74,64
+d3b57a63-c01c-4814-b247-a5f2ab06c077,2023-11-09,East,Health,True,298,Open,9445.41,24
+75a8ab97-c324-4724-bcd8-c3f369f11f90,2023-11-09,South,Health,False,221,Open,7570.68,18
+de1e0278-5438-496c-9c67-82cc2c2dfbe4,2023-11-09,East,Health,True,283,Open,1862.25,56
+e2e9e9f1-ff10-4787-85a8-bc31235c4168,2023-11-09,East,Auto,False,255,Open,4381.55,23
+cb103c96-464b-446e-a7e7-0c251b6859e2,2023-12-09,West,Health,False,164,Open,6113.88,21
+8f239f8f-91b1-4d67-b6de-c31b202e5351,2023-12-09,South,Health,False,94,In Review,3368.73,34
+99b624da-0113-44c3-a364-8f06c2f07b72,2023-12-09,West,Property,False,263,Closed,3673.18,63
+44ea8b76-e485-463f-9cdf-6dd9d6387247,2023-12-09,West,Property,False,118,Open,9365.41,76
+b6775c08-0b9a-4bcc-84d9-46a7c3e00df0,2023-12-09,North,Health,False,182,Open,7859.54,32
+ba62849b-6224-4ae2-a911-4068ba6c0bc0,2023-12-09,West,Auto,False,171,Closed,8276.62,42
+215bca00-5a8e-49c0-a50d-2ff3e939e2ea,2023-12-09,West,Health,True,297,Closed,4500.85,48
+6cfab90c-51d4-4bd4-ae6a-a0eaa62841a6,2023-12-09,South,Auto,False,72,Closed,2109.3,65
+18624e6e-447d-4383-9b21-70218f752109,2023-12-09,East,Health,False,134,In Review,3288.27,45
+071cf141-e71f-45de-9bde-b5653388e1f6,2023-01-10,West,Auto,True,45,Open,3507.65,53
+5a579136-b94f-41e1-8245-8c2771720540,2023-01-10,South,Health,False,179,Open,8233.79,66
+9c283341-334a-498c-a821-a34887f27913,2023-01-10,South,Health,False,36,In Review,4692.68,37
+b226e91b-bf89-4dd8-aa5e-56298f9f4871,2023-01-10,South,Health,False,224,In Review,6079.63,20
+ece0641e-bfaa-444b-a4ee-07d5de2e42ac,2023-01-10,West,Property,False,81,In Review,6214.65,71
+1c7a750d-9aea-46eb-bc48-312c8eca36db,2023-01-10,North,Auto,False,224,In Review,6343.26,65
+90a1479e-6d9c-4ac6-b3b7-297480a41c41,2023-01-10,East,Auto,False,79,Open,2765.25,39
+7dfb5448-4c76-47d7-a85b-81b8ed301f52,2023-01-10,East,Health,False,107,In Review,6291.4,52
+7512b7fb-1730-4772-9f67-97fc013068c3,2023-02-10,South,Auto,True,39,Closed,3094.95,66
+8bc31437-b82c-47cf-8162-44788bddc527,2023-02-10,East,Health,True,244,Open,4740.04,45
+4514f970-f6f5-4c3c-97d9-f210a5704b46,2023-02-10,East,Property,False,240,Open,1204.18,29
+06f07b7c-ec62-4dbe-9dd4-1890dfdf1b72,2023-02-10,West,Auto,False,182,Open,6212.99,26
+82cc56f6-4b9d-4d95-b357-e777eace9d85,2023-02-10,East,Health,False,249,In Review,1678.1,69
+b6225dc5-f823-4e86-b8b9-8c40199e7cbc,2023-02-10,East,Auto,False,231,Closed,2441.15,41
+1d004806-ba67-450f-a127-723e9d2803f5,2023-02-10,South,Auto,False,30,In Review,6865.97,81
+d11b22c6-9118-4418-bfbe-f39f764334b7,2023-02-10,South,Health,False,225,Closed,1293.9,46
+a63015e0-8b00-45d4-a24a-af6a8ebc1812,2023-02-10,East,Health,False,126,Open,7027.92,78
+ba007cd8-919b-4333-8e0a-8304f510b44a,2023-02-10,North,Auto,False,275,In Review,6186.53,24
+c20fe5d3-4aac-47f4-a7e8-25306a49bdb9,2023-02-10,West,Property,False,231,Closed,3062.67,46
+16dcb189-3dc1-40ca-bb1c-ffe9eee0c5b8,2023-02-10,North,Health,False,211,Open,6867.59,35
+f45427c3-18b6-4983-9970-e66e43e037fb,2023-03-10,West,Auto,False,185,In Review,3001.52,81
+4fd72c5b-ac25-4b37-b2bf-b362c7e0c8c4,2023-03-10,North,Property,False,49,Open,1442.7,75
+ec33490d-ded3-4ebc-a776-0ba320eb2201,2023-03-10,East,Auto,False,123,Open,4904.39,38
+d66c2cc0-438f-4f1a-a23a-d5e0ea18bb79,2023-03-10,East,Auto,False,140,Open,2194.14,67
+950943ea-ac1a-4177-aa2a-a17fc4205f81,2023-03-10,West,Property,False,198,Open,7985.05,84
+4902f3d7-ded2-41a1-9ed2-98c0c406014b,2023-03-10,North,Auto,False,178,Open,8995.16,34
+13c1c74c-b235-4861-af9c-e6df1accf10d,2023-03-10,North,Health,True,265,Open,4248.74,42
+4e73e764-1e48-4875-935a-76ea5fb2083e,2023-03-10,East,Health,False,50,Closed,9914.25,49
+f7774f99-b690-47e0-a867-a8a64c840a71,2023-03-10,East,Auto,False,101,Open,6250.51,20
+d61aa175-50d0-4310-82f4-fb97f17690dc,2023-03-10,West,Property,True,30,Closed,9974.56,52
+91bc03b7-7df2-4ebf-8527-535dae5c3ec3,2023-04-10,West,Health,False,45,Open,9286.91,79
+30180121-b1c6-4b92-a3e0-71063412bd02,2023-04-10,East,Property,False,96,In Review,6088.63,74
+0a7c9baa-0ee4-41e0-a50f-81b651749b15,2023-04-10,North,Auto,False,144,In Review,9915.65,32
+328be8cc-df2d-4ba4-b062-186f46187736,2023-04-10,West,Auto,False,104,Open,2734.77,58
+066f5c75-03e2-4243-a9ad-7ca576619e89,2023-04-10,South,Property,False,127,Closed,1932.37,69
+2dbb5e32-66d1-4b22-b463-fa1eb11266a3,2023-04-10,West,Auto,False,251,Closed,4296.73,26
+0f4574a8-e9f9-405e-8547-38446331e3e9,2023-04-10,North,Auto,False,248,Closed,6481.73,25
+384d81d9-bab4-4616-993f-8b4d455a75b8,2023-04-10,North,Property,False,287,In Review,1181.75,34
+b158dbb1-a0b2-42af-ab87-3304b134fe78,2023-04-10,South,Auto,True,246,In Review,5216.59,24
+57a9a30b-7d98-4fcc-b666-32dd080ab6dd,2023-04-10,West,Property,False,84,In Review,5856.18,68
+5a2e3eea-de67-43a4-8a02-bfe25d93ef05,2023-04-10,South,Property,False,97,In Review,5060.51,81
+3c591ee1-89fa-445e-bab1-91bed98312c3,2023-04-10,South,Auto,True,144,In Review,1828.72,35
+c588d1c3-b8d3-4496-9bf7-930690ca539e,2023-04-10,West,Health,False,62,Closed,5387.23,50
+460c5a3a-cdff-4520-8353-5ab10cabca86,2023-04-10,North,Property,False,116,Open,6529.79,72
+1b3f7952-6ae3-485e-996d-46810b3ecedb,2023-05-10,South,Property,True,117,Closed,1691.65,54
+e88a2946-a114-4940-966b-0cb95e05f9ec,2023-05-10,North,Property,False,37,Closed,3204.45,35
+7a290906-2b7b-47b1-a4cc-4042047e09f1,2023-05-10,West,Health,False,47,In Review,6755.22,43
+f46f648d-a956-4a2b-882d-d21bd817e9f8,2023-05-10,South,Auto,False,61,Open,7025.49,44
+c5fe50f5-5ce1-44ae-874f-d3c200668ffb,2023-05-10,East,Property,False,64,Closed,8308.92,20
+07821143-b5bc-486c-a8ca-c4b9e2b46e97,2023-05-10,North,Health,True,142,Closed,5013.32,51
+6670ff20-ec31-4ae5-9e47-e22115df276b,2023-05-10,North,Property,False,115,Open,8444.68,26
+7ccba50a-3b9a-4370-956b-a2d135dc04c7,2023-05-10,South,Auto,False,232,Closed,6485.68,69
+bfb44683-450e-425c-84b8-367ecb421078,2023-05-10,South,Health,False,132,Open,4081.44,72
+23b40a52-248b-45e3-8337-0eb930ef9abc,2023-05-10,North,Health,False,272,Closed,6859.3,71
+030032c8-8b3f-409b-9bf0-caf234bbe7b1,2023-05-10,North,Property,False,43,In Review,8109.83,78
+b9746f05-0496-41e6-9421-2f259491f5e6,2023-05-10,West,Property,False,120,Open,7391.28,55
+d18252b7-2305-49b3-84c5-4bae9da77417,2023-05-10,East,Health,False,66,Closed,6369.75,59
+0563ceca-eb17-4df3-ae11-7d378528ea1f,2023-05-10,North,Auto,False,171,Open,4662.89,72
+662fabe5-d89f-43b8-9b46-79638b7e5e03,2023-06-10,South,Auto,False,165,Closed,5044.29,83
+54c48c5d-aab3-4116-8967-623e6bfb13e9,2023-06-10,North,Health,False,234,In Review,2763.81,67
+6482fa3c-9123-4743-a7f7-5b40389b33d5,2023-06-10,North,Health,False,193,In Review,3746.42,24
+b4750ad2-f2b2-4ad9-820b-6fddcdc9e32a,2023-06-10,South,Property,True,268,In Review,1712.3,42
+bd82301e-059c-4147-9949-e129f3364d5f,2023-06-10,North,Property,False,262,Open,7061.65,56
+e76944fc-5d0f-4e2f-9601-cd7ed26771f2,2023-06-10,East,Auto,False,153,Closed,3903.65,74
+8c1777cf-f201-49a2-bb77-1f3b4e04987b,2023-06-10,North,Property,False,65,In Review,5886.55,81
+bd08d122-d9c2-4da8-a1fa-16923dd7f62a,2023-06-10,South,Health,False,188,Open,5393.97,84
+7a67e8e1-580b-4e7a-97cb-b08bf9dadb20,2023-06-10,North,Auto,True,168,In Review,8905.06,43
+4fec6e8e-cd49-4e48-9f77-84435321ca7d,2023-07-10,South,Health,True,295,Closed,8513.79,61
+34ab0239-3573-4868-93fe-7421394fc088,2023-07-10,South,Auto,False,100,Closed,1053.48,77
+4e294747-fcc3-4395-b255-f224e36cbf25,2023-07-10,West,Health,False,58,In Review,4807.47,60
+ecd4d1b4-e1ee-4d92-9951-326667405861,2023-07-10,West,Property,False,261,Closed,9655.71,33
+7122dc65-f42e-4051-8a59-60d799ba3a0c,2023-07-10,North,Auto,False,291,In Review,9208.61,32
+aa88a3b6-e4d1-48e1-b6bc-a8e72e6a2d31,2023-07-10,South,Property,True,150,Closed,9574.69,69
+e01f900b-5035-4874-a531-3854bd51570f,2023-07-10,West,Property,False,244,Open,7820.62,70
+4e12a384-597a-4995-993c-e2d83b58b40c,2023-07-10,South,Health,False,172,In Review,9421.78,43
+e226e7d1-7205-4e4e-883a-7665aa93c492,2023-07-10,East,Property,False,113,Open,5194.03,80
+589a9b96-6c04-409a-a76a-93908b068a84,2023-08-10,West,Auto,True,200,Closed,1719.24,59
+3b1ac8bd-7cea-44ab-a623-282b8327e0da,2023-08-10,West,Property,False,168,Closed,3099.39,41
+7e148a0c-6df6-4533-8b14-09126606f41a,2023-08-10,South,Auto,False,257,In Review,2597.26,38
+beb74b78-0525-442c-9646-05772b157581,2023-08-10,South,Health,False,136,In Review,5042.26,75
+5dc5026f-16bc-4dc4-93f0-b9b17dd6c403,2023-08-10,South,Auto,False,116,Open,9980.96,18
+f79d09ae-5979-41dd-bb11-577800e47f9f,2023-08-10,North,Health,False,94,In Review,8620.81,32
+5e543333-11c8-45da-bf3f-9176273caab6,2023-08-10,West,Auto,True,140,In Review,8486.58,33
+25d14b9f-9ad7-4598-8c2b-881aed09d7da,2023-08-10,West,Auto,False,269,Closed,4909.05,19
+6dcc9427-a1f9-4dab-8bf3-8fa665a82197,2023-08-10,West,Auto,False,140,Closed,1111.74,21
+0736ddf4-a640-4a1c-b9ec-d486e6d3f7a8,2023-08-10,North,Property,True,104,Open,5365.99,53
+f203de12-13b8-4b57-a2fb-9575b0b2f61c,2023-08-10,South,Auto,False,240,Closed,9829.35,24
+c169468f-0bec-4668-8250-1e32c3adedf5,2023-08-10,South,Auto,False,220,Closed,6749.9,70
+057928c5-a9ec-49f8-9a3e-df1de33ed317,2023-08-10,North,Property,False,223,Closed,7889.78,33
+1d4d2fa4-2fb0-4906-8f84-866526500c5d,2023-09-10,West,Property,False,212,Closed,4542.97,76
+21414036-ff27-4ff5-a5ce-18e074eb5776,2023-09-10,South,Health,False,132,In Review,6077.96,68
+bf588ed9-5ead-4aa1-a61f-69eac2537116,2023-09-10,East,Health,False,67,Closed,6797.85,61
+e34e3e61-6d5b-4a6d-9bf9-865e45c9470e,2023-09-10,West,Health,False,126,In Review,6627.55,74
+21f5721d-f279-49ec-94b6-42d108a44fdb,2023-09-10,South,Property,False,284,Closed,9882.96,20
+cb8f99ff-4e47-4e5a-858c-256cff966264,2023-09-10,South,Auto,False,267,In Review,4614.81,46
+249c1fa5-deef-4932-9ca1-b234906bfa9a,2023-09-10,East,Health,False,146,In Review,6797.36,27
+411ddfba-9a47-4521-86ee-9e32ae92bbba,2023-09-10,East,Auto,False,193,In Review,8999.99,45
+49cd544f-e0e2-42cd-b080-7cd6f9c4b234,2023-09-10,West,Auto,False,38,In Review,9122.7,66
+a178b52f-d42b-4a74-9929-2543e4ffa306,2023-09-10,East,Auto,False,205,Open,6687.01,73
+28ae1cba-2e68-447d-831f-e4f0e2b4a39d,2023-09-10,North,Auto,True,204,Open,3097.0,62
+ea13b8e1-4c67-49a2-bf07-3cd0c467b967,2023-09-10,East,Health,False,287,In Review,8149.3,50
+286da041-db91-4327-852f-031b9809c3bf,2023-09-10,South,Property,False,157,Closed,3790.02,24
+297ca0a2-6cbb-46f5-9284-f5b55a4ef000,2023-10-10,South,Auto,False,123,In Review,4128.08,32
+2e9c683e-e134-446c-8971-d425e6fb31c1,2023-10-10,West,Health,False,79,Closed,8120.44,67
+386c603f-f2f3-4050-b288-511840c6dd8d,2023-10-10,South,Auto,True,255,In Review,6502.91,21
+1911f992-43f7-4856-9fef-0bf0695b5fe8,2023-10-10,West,Health,False,110,Open,9812.01,26
+f6d48162-9876-4be9-bc3f-296f926259b1,2023-10-10,North,Auto,False,173,In Review,1314.99,73
+7c9012bb-b0c0-4b60-8513-5bdb57ee78ba,2023-11-10,South,Health,True,195,Open,5117.91,58
+15059cad-378e-4d7a-9113-db1b6ca210ae,2023-11-10,South,Health,False,96,Closed,1100.99,44
+7681aab9-bf74-47fa-ad8e-0c13868baf53,2023-11-10,West,Health,False,215,Closed,2497.78,56
+4607e9f1-a1a8-4d36-b9b1-b1a3c14b17a6,2023-11-10,East,Health,False,252,Closed,9276.6,37
+d68db6bc-0e4f-4927-bf80-ae408e6ed03a,2023-11-10,West,Auto,False,52,Open,8453.13,33
+c3b4597c-78b9-4a9d-8891-83a0b8fe4315,2023-11-10,South,Property,False,222,Open,9189.37,54
+74b04ebf-1906-4d5c-bceb-0a31d283befe,2023-11-10,West,Auto,False,67,In Review,5739.0,68
+d3dec9e7-86d5-4367-be26-11787b4d77e2,2023-11-10,West,Health,False,42,Open,5399.19,74
+19b65c12-e96a-4362-b29c-41f68f3649eb,2023-11-10,South,Auto,True,211,Closed,1064.57,80
+51210151-f040-4740-81f0-6ec07e61f70c,2023-11-10,North,Health,False,272,In Review,5487.28,26
+b7648942-6e69-40ba-9099-d971d1a3fa0c,2023-11-10,East,Auto,False,91,In Review,5138.15,62
+559339b2-9fa0-45cd-b816-6d418da516a6,2023-11-10,North,Auto,False,86,Closed,4279.31,63
+f4a052bf-6a23-4815-885e-41828cc03d22,2023-11-10,South,Health,False,261,Closed,3082.71,40
+1babdab9-7b9b-493b-8db3-c8afc5630868,2023-12-10,South,Auto,False,268,Open,1312.51,55
+51a07b55-a19a-4d4e-a2cc-d509e24071f4,2023-12-10,West,Health,False,79,In Review,1058.41,77
+3a316fa3-79c5-410a-b905-d9f489877ef2,2023-12-10,West,Property,True,139,In Review,8110.5,70
+71a50c8b-f9a9-45b9-a608-fc6bcd02cb49,2023-12-10,West,Health,False,153,Closed,8687.77,65
+83ec2cff-a45a-4c7a-afd6-98c22cf10dc9,2023-12-10,North,Auto,False,93,In Review,5813.36,39
+43f85810-de0d-4f47-94a4-1f87fbb7e928,2023-12-10,South,Health,False,139,Closed,5400.43,52
+e4bf4823-546d-4354-90e1-8be91ea35409,2023-12-10,North,Auto,False,51,In Review,1201.1,75
+c4b1daad-06ad-4826-bb32-a436ee7774ff,2023-12-10,South,Property,False,231,Open,7967.41,60
+3afd5915-fba4-416a-bf0f-fed5fbe92aa9,2023-12-10,North,Auto,False,212,In Review,9169.53,22
+fda5bfd0-05a1-4f04-be4e-e6336973375c,2023-12-10,West,Health,False,292,Closed,9359.51,63
+7e6affdd-7dc1-42f4-838a-dc8d72a0f2bd,2023-12-10,South,Property,False,90,Closed,8865.17,54
+f785fef2-d870-48d3-a4b1-24f521b7f055,2023-12-10,East,Property,False,293,In Review,6941.55,35
+9f3b7b0d-751c-4be0-84e1-3ad00a7e79da,2023-12-10,South,Auto,False,258,Closed,5958.21,71
+957c37f8-100d-4e1c-b088-89c0448ae1a6,2023-01-11,West,Health,False,60,Open,8332.92,84
+f89baee9-97ef-44c5-9dc9-704138e233af,2023-01-11,West,Property,False,211,Open,5426.15,55
+907d4752-dd64-4c37-8cf1-55134453a15b,2023-01-11,West,Property,False,59,In Review,1197.74,78
+aebf1683-8b52-499e-9c9f-afcd465fb4bd,2023-01-11,East,Health,False,33,In Review,8741.33,81
+9a63fcc1-6986-4f95-bca3-b3b9110dd935,2023-01-11,East,Auto,False,88,Open,8749.37,69
+778ac3a9-0e27-43f7-8fd7-f782f4a3e927,2023-01-11,West,Auto,False,84,Open,1186.91,57
+b1fe7f49-27a0-442c-9ed6-9c66b2aa3f64,2023-01-11,East,Auto,False,263,In Review,6087.04,21
+70a6c4fd-f867-4e9e-9ffd-fa31e6e92741,2023-01-11,East,Auto,False,92,In Review,7881.01,68
+40bdd3f7-4cb4-49ba-858e-ce9a6feba718,2023-01-11,South,Property,False,63,In Review,4551.15,27
+5f7f37f3-116e-45d8-a692-0f46f79a0769,2023-01-11,East,Property,False,264,Open,7320.83,33
+8160f1b5-a247-4a3d-8e8a-51ac441d24c6,2023-01-11,West,Property,False,127,Closed,2540.27,50
+20815a24-b555-4cdf-ae41-291b57e22959,2023-01-11,West,Property,False,100,Closed,1759.52,78
+9d5dfa55-e97d-4d26-9776-e67fe8c38181,2023-01-11,East,Property,False,221,Open,7457.83,45
+94a72e12-3914-4978-8a01-13c16043a2b0,2023-02-11,West,Property,False,181,Closed,8857.92,81
+576f43ab-f817-4747-b389-72fcf4de98f4,2023-02-11,North,Auto,False,129,Open,5628.18,82
+cf4961fd-617b-4b81-84f8-1869d0954151,2023-02-11,South,Property,True,83,Closed,9762.47,33
+c60a8da3-ff73-4e84-9a44-f5b0c08a8b70,2023-02-11,West,Health,False,77,In Review,5439.38,53
+316c5e3a-a550-44e1-8a72-14a186eb3ffa,2023-02-11,South,Property,False,48,In Review,3392.91,50
+04464323-3215-4468-8772-a02c461e696c,2023-02-11,West,Property,False,271,In Review,6585.73,77
+a8730d0a-ac43-4f7f-bc03-1543d7f227f9,2023-02-11,East,Auto,False,195,Closed,1429.6,29
+2d6a7bd5-d46c-4ef1-84c1-026d70f1eab2,2023-03-11,North,Auto,False,138,In Review,5146.73,22
+613d66e4-94b8-4907-901c-f70db7befffe,2023-03-11,West,Auto,False,108,Closed,4862.95,30
+9d584be5-2522-4ed5-804c-2e95aedf8c05,2023-03-11,East,Property,True,118,In Review,4939.99,29
+7113c4a2-8346-4830-b688-0436b7d21623,2023-03-11,North,Auto,False,202,Closed,3234.87,60
+584fe614-bfc0-4f60-bbe2-ca2492bc080b,2023-03-11,South,Property,False,261,Open,9753.31,80
+68176ec0-a793-4302-b70e-5e3f3b18b53b,2023-03-11,North,Property,False,261,Closed,4952.5,56
+28ae5659-d7e2-42ab-af40-9cb039d35411,2023-03-11,North,Health,False,207,Closed,7837.25,67
+51d6a568-aca2-4ca3-9f89-74080f518476,2023-03-11,East,Health,False,136,In Review,1822.14,45
+18bad9e3-f944-4b84-acd3-22c11b4cca87,2023-03-11,South,Property,False,155,In Review,9174.6,69
+d554bf8a-68fb-4e0e-841a-fccb3b03413d,2023-03-11,South,Auto,False,52,Open,1662.05,35
+1d7c5b60-62cb-4380-9437-6046084015a4,2023-04-11,East,Auto,False,192,Open,9599.24,80
+bf676863-7a0d-4493-9dbc-0f6c15b75f67,2023-04-11,West,Auto,False,221,Closed,2324.42,27
+256a9fdf-0ab8-41ba-8c7b-f91e4ab965ec,2023-04-11,West,Property,True,147,Closed,6261.94,82
+de1f497c-82d8-438f-bad6-a989a276d372,2023-04-11,North,Health,False,185,Open,2566.46,25
+1da9eb2e-8e58-4280-bd06-c37ab01d17fa,2023-04-11,South,Health,False,87,Closed,7813.29,29
+c145f5ca-82d9-4561-b330-04008011f734,2023-04-11,North,Auto,True,46,Closed,1560.19,49
+4f204fa9-7fa5-49ed-8c29-b8674fa38646,2023-04-11,East,Health,False,173,Open,8098.39,25
+58f54c46-6a83-4293-a031-e7d7702c1d32,2023-04-11,West,Auto,True,57,Closed,1960.43,21
+dcb03d8b-be37-40ec-9639-5f995286d526,2023-04-11,South,Property,False,91,In Review,8546.52,21
+80febb12-ada0-40bb-ac16-ddfc1dc965c4,2023-04-11,North,Auto,False,76,Open,8698.13,65
+af0e314c-46a6-451b-bdcc-f26a2cc8d635,2023-05-11,South,Property,False,45,Closed,6962.49,47
+42051fbb-bbad-4e72-9ba7-62c3f112d411,2023-05-11,North,Property,False,87,Open,8487.22,31
+7141def3-44f2-4413-bc7e-310c97b435b4,2023-05-11,East,Auto,True,174,In Review,4133.79,54
+e6261b8b-7b24-437a-ad01-9de2ddb07856,2023-05-11,West,Health,False,245,In Review,6700.05,75
+9f2a491e-1eb9-48d7-be1e-b4854bed94ed,2023-05-11,East,Property,False,48,In Review,7032.88,64
+086e7df5-1da3-48dd-b081-78634ce6d46b,2023-05-11,East,Property,False,157,Open,4893.53,33
+7820789c-2491-49dd-8e29-3b297f153f7e,2023-05-11,North,Property,False,132,In Review,7868.68,46
+a9d2863b-3a34-4ca4-a375-c28c2aefa4e7,2023-05-11,East,Auto,False,116,Closed,8846.52,64
+05269a0e-612b-47c3-bfcd-d1196588584f,2023-05-11,West,Health,False,46,In Review,6260.04,66
+00aceb05-c9ec-4698-9b28-e38aaeaac24c,2023-06-11,South,Auto,False,229,In Review,5041.79,35
+9e4bb67d-73b6-47f2-81b6-558aee4fe270,2023-06-11,South,Auto,False,256,In Review,1720.57,78
+8f93aa25-a25a-4b45-9527-c102b7d60d07,2023-06-11,West,Property,True,125,Closed,5393.89,22
+14235407-efae-47e7-b1f9-c08e0f41d42a,2023-06-11,West,Property,False,141,In Review,2465.72,27
+6602ee9e-8086-45fd-b3ac-2d4c8cd9531b,2023-06-11,South,Property,False,88,In Review,4078.17,34
+de0fc483-1a54-457d-9a89-aa7f94ea8d42,2023-06-11,North,Health,True,127,Open,3224.59,19
+84bdebaf-6e12-4f33-b555-4debb469390e,2023-06-11,North,Health,False,97,Closed,4286.47,61
+04175715-ad98-4794-949e-352305055113,2023-06-11,South,Auto,False,276,In Review,9454.88,78
+c346f091-2c3a-4529-9a1c-ee5ed2b21795,2023-06-11,North,Property,False,100,Open,7431.25,29
+86ed771f-a4ed-4796-9664-6f807147581a,2023-06-11,East,Property,False,265,In Review,2818.76,72
+eb91ba37-bfcd-4b1e-b0d2-8b557a5f1dd8,2023-06-11,East,Auto,False,284,In Review,7659.38,72
+7f671014-fc1e-4d72-a47f-c19df5f3c07a,2023-07-11,West,Health,False,32,Closed,7270.42,76
+9cfa09f5-a95b-4830-b3e2-165f2b346d04,2023-07-11,West,Property,False,284,In Review,4119.79,28
+5329fa79-74da-48ef-8e43-e185aafecf20,2023-07-11,South,Health,True,153,Closed,2918.61,70
+2aa5f71d-a0b0-456e-9d03-fa03c320d37a,2023-07-11,West,Health,False,164,Open,9009.68,62
+a9e56003-7775-4862-b526-f1167b605030,2023-07-11,East,Auto,False,143,In Review,1836.2,45
+f5c802f4-130c-4be7-86a3-9a0e0a4824ae,2023-07-11,West,Health,False,271,In Review,6057.78,60
+d7e686f1-d54a-455d-a1d6-77187801b93e,2023-08-11,South,Auto,False,60,Closed,4430.29,58
+897840b7-0cdc-4286-bacf-b73a6aeef6b9,2023-08-11,South,Property,False,32,Open,6483.68,21
+68103841-9cf6-42ea-a351-d70ee0c6de0f,2023-08-11,East,Health,False,195,In Review,7606.04,34
+c7766aa2-65af-42b4-ab05-92b4cc67ad19,2023-08-11,North,Health,True,99,Closed,1979.16,70
+4096c054-8b2f-4e36-972a-2b1d4e4dca0c,2023-08-11,West,Auto,False,69,Closed,8514.41,42
+b3a7a846-b313-4747-aec6-fcacb911db68,2023-08-11,West,Property,False,78,Closed,3155.09,44
+05085bf8-9867-41b5-b509-0d77a3ca6f2c,2023-09-11,South,Property,False,98,In Review,2661.64,64
+40b71cff-328a-4915-b8c5-2cd5246fdd3f,2023-09-11,North,Health,True,138,Open,1819.48,63
+bbde350c-0ae9-4c1c-b1be-37ab9ba9aab8,2023-09-11,North,Health,False,59,Closed,5989.26,69
+1df073ee-108b-4fbd-81a8-863088752439,2023-09-11,West,Auto,True,254,Open,9396.51,57
+43b50738-8086-468b-a6e5-7dbf5117b302,2023-09-11,East,Health,True,219,Open,1216.34,76
+adedaa47-9aff-4949-aad9-120c2260de52,2023-09-11,North,Property,False,218,Closed,3287.61,51
+210afb34-c47a-4a4e-ac0f-89021bcd7ae6,2023-09-11,East,Property,False,256,Open,7540.3,22
+6452f073-d5a6-4e64-8dce-3c16d4e37ea9,2023-09-11,West,Auto,False,222,Closed,6785.41,78
+36d6ad4d-80c3-40e3-82da-946446a93e6d,2023-09-11,South,Auto,False,57,Open,9644.32,20
+53c12968-1ca5-4509-9823-58f7ab191e17,2023-09-11,North,Property,False,116,Closed,6805.95,68
+264b4bb4-e384-4079-9360-bd437a848ac3,2023-09-11,South,Auto,True,174,Open,8646.5,48
+b71fe158-a2c4-4a04-8412-9d8f471c431c,2023-09-11,West,Property,False,89,Closed,7538.74,68
+47ca9146-6321-4be0-b211-887a6b345b9c,2023-10-11,West,Health,False,199,In Review,5445.89,60
+0f1a83d6-a3ad-4ff3-a885-5bd75bdc3bce,2023-10-11,North,Property,False,135,Closed,3616.34,52
+bf2851b9-c9d2-448e-9a7a-480877bbf907,2023-10-11,East,Auto,False,158,Closed,6164.76,24
+ff31f3f4-52cd-4f94-b83a-11009b71c95d,2023-10-11,East,Property,False,109,In Review,4475.68,47
+77b31072-bbfb-4011-9154-81f4d5b1f80b,2023-10-11,South,Property,False,258,Open,7275.47,39
+c522ed6a-3c76-42da-9a7e-b05ac89d5f95,2023-10-11,North,Health,False,66,Closed,7298.46,52
+1544035a-0658-4bd0-8a50-bf85a23d657a,2023-10-11,South,Health,False,274,In Review,3107.52,47
+3e770d52-770b-4570-8d8b-26d69af995f2,2023-10-11,South,Property,False,176,Closed,7433.59,71
+ef32e0ca-480d-41a8-8820-978d00497ef1,2023-11-11,North,Health,False,167,In Review,9684.98,47
+cde748cf-27ea-44fd-a380-4a6714d531a3,2023-11-11,North,Health,True,192,In Review,7968.4,44
+3cf800ab-0f27-497c-a9f1-71e75a2f1b4f,2023-11-11,South,Auto,False,163,Closed,1036.55,19
+b9d0fb9e-dba8-4824-923a-655b10ec0993,2023-11-11,East,Property,False,157,Closed,9777.7,43
+964df1f1-c854-498c-a6e3-f4c306c50254,2023-11-11,South,Property,False,163,In Review,3754.14,74
+329d3d70-84e6-4056-9954-8e2df0b2a61e,2023-11-11,South,Health,True,178,Open,4172.36,75
+de7914d4-3419-4b2b-8021-68569a0d9c43,2023-11-11,East,Auto,False,107,Closed,1234.5,35
+8d6fa7bb-5449-4333-9def-5ac3c8cf0929,2023-11-11,North,Auto,False,115,In Review,4396.14,54
+2dba7239-9291-49e8-9431-f0df309d5963,2023-11-11,North,Auto,False,87,Open,7757.11,64
+8b6c16d4-d6c0-4f99-b36e-12715b6ca83c,2023-11-11,North,Property,True,80,In Review,4436.55,43
+d430d7e3-62a7-42d7-854f-0d7c4cd29154,2023-11-11,East,Health,False,84,Open,2751.01,47
+4fc00caf-6489-4e47-8ee0-40f59bb4473a,2023-12-11,West,Health,False,135,In Review,9545.69,80
+ac546372-9899-40e6-8042-d5f400439b12,2023-12-11,East,Health,True,125,Open,7558.38,32
+67dc5a2a-a2c3-414c-be33-8f01ca0c0d3e,2023-12-11,North,Property,True,42,In Review,2062.87,53
+76e7eba5-1626-4d0b-98ef-54b5c7690374,2023-12-11,East,Health,False,110,Closed,5819.83,74
+2ceb0181-0364-4424-b801-856adabaf33a,2023-12-11,South,Health,False,128,Closed,3290.65,56
+a97f10cc-1f6d-413c-ac89-f9e998e17c57,2023-12-11,North,Property,False,284,Closed,6350.97,31
+c54ddde9-7e70-4d56-8198-c787f20c0803,2023-01-12,East,Auto,False,62,Open,2583.49,55
+f1f4028f-1c37-4dd1-8f4e-c4dbf2628cb7,2023-01-12,North,Property,False,71,Closed,2398.33,22
+ce09d83f-2634-4d04-8527-2d077dad671a,2023-01-12,South,Health,False,128,Open,7224.37,60
+2b7c78d6-cb86-4fd9-b6d5-a8f344e2428b,2023-01-12,South,Health,False,231,Open,5599.26,63
+b593dca0-321a-4be8-a73a-7850bb823fd0,2023-01-12,East,Health,False,96,Open,8387.49,62
+f95a2b97-cb43-4bd6-aee4-d8eb29fbba2e,2023-01-12,South,Property,True,46,Open,5056.19,57
+8cdd5e00-3c8d-4f22-a0d2-505896bb9fb2,2023-01-12,North,Health,True,228,In Review,6669.18,58
+53f56ac3-d0ef-4f40-816a-995cfebb21d3,2023-01-12,West,Health,True,272,In Review,8832.95,42
+98cc6ee0-a042-405b-b7fc-0c9edde264ff,2023-01-12,South,Health,False,243,In Review,3685.91,67
+20f9afe6-7075-4b41-bc8d-e073a27ffc00,2023-01-12,North,Property,False,153,Open,1501.0,46
+a97d865f-000b-4283-91cc-f7696de5091e,2023-01-12,South,Property,False,88,In Review,6382.17,61
+f23c3244-1827-48f8-b5ff-3eb1dab3428b,2023-01-12,South,Auto,False,233,In Review,4274.49,34
+2610afc2-5371-4b50-987c-2c05278c26be,2023-01-12,East,Auto,False,93,In Review,2872.78,83
+41f0fedc-4fe5-416a-a9e1-5c4bb57b160f,2023-02-12,North,Auto,False,206,In Review,9377.27,73
+5a9260ed-6e44-4b7c-ad8c-4486046cd8dd,2023-02-12,North,Auto,False,200,Closed,3398.2,44
+0f74f83c-29e0-4357-ab29-8351166c6a9e,2023-02-12,West,Health,True,202,Closed,1568.17,23
+220a3abd-821c-4728-b02e-90abf99cd879,2023-02-12,West,Property,False,42,Closed,4027.06,18
+4eecb87c-cf79-454b-8fb4-c7acbdcbcbca,2023-02-12,North,Auto,False,46,Open,6478.05,74
+b9658318-02d1-400b-bf4f-cfbb9f0b1848,2023-02-12,North,Auto,False,252,Closed,2381.47,59
+8103fc81-d6b1-4c6d-9b78-4fb945a61098,2023-02-12,South,Property,False,268,Closed,2972.8,18
+12f49b5e-8774-4347-b4ef-171c72bc41e2,2023-02-12,East,Property,False,41,Open,1895.25,84
+4a103a63-30a5-4839-b8d0-7e0717581232,2023-02-12,South,Health,False,202,In Review,7626.14,76
+0edf3f1e-ef94-4312-8d07-5e1f58a09613,2023-02-12,South,Health,False,178,Closed,6429.54,18
+89520e40-63b1-451d-b45e-2fb28f87a6d2,2023-03-12,West,Health,False,261,Closed,6887.06,61
+1cee4687-94f9-4147-bfa9-f276379a6af3,2023-03-12,East,Property,False,128,Open,8570.93,37
+98b13214-25bb-4b1e-863d-7702f517176c,2023-03-12,East,Property,False,97,In Review,9549.65,21
+69554953-92fa-4c98-a0b1-80bed6d993a5,2023-03-12,West,Auto,False,34,Closed,2537.05,49
+1d1d9773-2062-4956-9973-b724b23a13b1,2023-03-12,South,Auto,False,69,In Review,9139.64,36
+1b62caab-dcaa-4a3e-8e8e-9407db0deaa7,2023-03-12,North,Auto,False,249,Open,2197.78,77
+e818df3c-2b05-48e9-82b4-7619bf5d0567,2023-03-12,South,Property,True,210,Closed,1902.83,80
+d9f5c384-121a-49e3-9784-7698747b2f76,2023-03-12,North,Auto,False,115,In Review,2650.85,61
+f49e4210-aea5-4d5b-aa5d-f5f2049bdf60,2023-04-12,West,Property,False,52,Open,3851.25,30
+5ba22595-fc05-489d-9bab-9e9be3092c7f,2023-04-12,South,Health,True,225,Open,8170.76,57
+7e061611-ca0c-4978-86da-d31a62ffe6f6,2023-04-12,South,Auto,True,52,In Review,9542.01,67
+4fcf91fd-e8d7-4422-a972-0027bd490b8b,2023-04-12,South,Health,True,145,Open,2218.44,70
+80cded44-087b-4f49-8208-33d1cecaabd3,2023-04-12,West,Property,False,294,Open,4354.99,26
+6e7b3906-b794-482a-a82c-b21009ccf68c,2023-04-12,South,Property,False,237,Closed,2377.76,55
+b2154265-52c0-4147-b917-fec9a67741c2,2023-04-12,East,Property,False,110,In Review,7324.7,62
+288f2cca-e09c-4d96-b5b9-e8b11934c9f2,2023-04-12,East,Health,False,288,Closed,5158.54,35
+933af7d5-a771-41e7-b356-db12214a1b06,2023-04-12,North,Auto,True,149,Closed,7118.87,62
+7f7a2bd7-260a-49c8-8126-fe01ca19f364,2023-04-12,West,Health,False,91,Closed,5733.61,57
+34a83303-f4c7-401b-9145-ea9b10779934,2023-04-12,South,Health,False,100,In Review,8356.26,78
+8c0dc960-fcc9-45a0-a946-8deddf610bc8,2023-04-12,East,Auto,False,220,Closed,2422.38,30
+04e96e21-5b91-44a4-9817-269eaa18b0a7,2023-04-12,West,Auto,False,91,Closed,9158.78,45
+52fbaf2c-8dbb-4839-b24e-66a027364db3,2023-05-12,South,Auto,False,147,In Review,9599.33,42
+ac50858b-0775-4c18-9836-7347bc69048e,2023-05-12,West,Property,False,135,Open,5670.96,31
+d057f223-a5f7-4376-8830-4b7116bd4a6f,2023-05-12,East,Auto,False,222,In Review,4640.65,49
+7acdf29b-e203-47da-a5b5-27ed7a9b77d5,2023-05-12,East,Health,True,237,In Review,3636.15,31
+3407f70b-52b4-4d3f-9902-61dd6d8dc0ef,2023-05-12,South,Property,False,213,Open,4013.89,70
+d41ea8d0-ce07-4694-a48f-78410d0d60ed,2023-05-12,East,Health,False,68,In Review,8668.63,20
+f3f531de-53c1-4cde-a61a-905cbb1f1c1b,2023-05-12,South,Health,False,222,Open,6010.01,79
+27a10d74-fa71-4f57-a1d2-42e2fa89bbf5,2023-05-12,South,Auto,False,117,Open,7531.93,69
+25675c9b-3c75-449a-b730-e9c7dec4ea5e,2023-05-12,North,Auto,False,68,Open,4244.38,60
+0390d1dc-4867-456f-ad14-86e97cb62cab,2023-05-12,North,Auto,False,155,Open,1278.83,70
+a6af637d-e3f6-49b7-b0f0-e271e9c9f365,2023-05-12,North,Auto,False,106,In Review,7446.01,35
+7f999390-cb1e-422a-8008-64cc0a7aaf33,2023-05-12,North,Property,False,81,Open,1460.44,76
+822539fd-67c6-4fcd-82ad-0f3de6fbc3f1,2023-05-12,South,Property,False,168,Open,2418.31,33
+53374770-3a38-4985-b6dd-855ad352f8ce,2023-06-12,East,Property,False,293,Open,2942.72,67
+7f5ba33b-7137-4a5f-8fa5-52d5eee51ba8,2023-06-12,East,Auto,True,223,Closed,7331.17,34
+2c59dd72-0579-4651-a4b5-17970b02ddf0,2023-06-12,East,Auto,False,180,In Review,6285.88,28
+4b179a1b-8295-4dce-b717-9e30170f2dd4,2023-06-12,East,Property,False,140,Open,4634.98,79
+c04c70b0-30c3-4d58-ba2a-d4bab8b31322,2023-06-12,North,Auto,False,135,Closed,2979.82,65
+5a315197-c454-4afb-98cf-39527929bdb9,2023-06-12,South,Property,False,278,In Review,8536.49,49
+5f7f7dc5-e18d-486d-b9f9-3ab685d62016,2023-06-12,West,Property,False,103,In Review,8637.48,55
+afabf7b0-1800-4a71-9082-8397c940e9df,2023-06-12,East,Health,False,138,Closed,6646.74,48
+c88c765f-ac71-40cd-aaa2-89708eb3c3b2,2023-06-12,South,Health,False,230,Closed,5392.75,59
+df9f2ea4-8b15-4c54-b1b6-024dd5ad6922,2023-06-12,South,Health,False,32,Closed,2276.65,82
+f795228e-cee2-42e1-a821-e403b63e6503,2023-06-12,East,Health,False,288,Open,2593.52,38
+b006e6c8-227a-490b-93f0-de7a935044b1,2023-07-12,West,Auto,False,196,In Review,9490.42,19
+4f95102d-2d2b-455d-a4ec-645e27251ce8,2023-07-12,South,Auto,True,110,Closed,9776.73,36
+df824865-5e99-4a02-a970-53e884b04d1c,2023-07-12,South,Auto,False,284,Closed,2946.88,23
+285b6ad1-1c51-41e3-adf6-d7865a39ee13,2023-07-12,East,Auto,False,104,In Review,8180.33,82
+e1400b30-a869-484e-a2b2-b3147cb4a679,2023-07-12,South,Property,False,256,In Review,9916.07,78
+53468cf3-d781-4da6-910a-8c0c6e099a37,2023-07-12,East,Auto,False,157,In Review,7358.29,39
+93473a68-a378-4810-ae04-8e02a59d01b9,2023-07-12,South,Property,False,73,In Review,3334.29,19
+6a4f8f95-1898-4e59-bcfa-c3a7b4421081,2023-08-12,North,Health,False,192,In Review,7925.89,45
+b77be13a-15f4-4486-a856-4d82191dfbdc,2023-08-12,North,Auto,False,211,In Review,8423.53,75
+589ff40a-a528-46c3-8cbb-3f0610a289c3,2023-08-12,South,Property,False,93,Open,7419.54,70
+0fc060c0-9d5c-48fb-954a-b09a8be9d20f,2023-08-12,East,Auto,False,219,In Review,7738.42,36
+dbb2e46e-1007-49c8-89d2-8283e159d43f,2023-08-12,East,Health,False,186,Open,1846.97,58
+7451ec31-139f-43a9-93de-cb339f2391e7,2023-09-12,East,Health,False,81,Open,5500.56,77
+baf9a4a2-7bdc-45ca-9056-03e4ab82368a,2023-09-12,South,Property,True,83,In Review,7995.61,51
+351dedff-8ccd-497f-9b31-128271fc2152,2023-09-12,South,Property,False,110,Open,6056.62,80
+800ec9d6-b461-4fe9-afe6-936b32e38895,2023-09-12,East,Health,False,227,In Review,7816.08,41
+22aa1e3b-28bf-41b3-84d7-f1edec4dadf5,2023-09-12,West,Auto,False,209,In Review,8716.95,61
+29b5b5c1-34ad-48d5-9f85-9fa0c475cfa6,2023-09-12,South,Property,False,208,Open,6936.99,65
+d4b44ee8-0770-4a70-b98b-604c987d985f,2023-09-12,North,Auto,False,46,Closed,8089.38,23
+3d73950b-4480-4d47-b6b3-a13ad2bc318b,2023-09-12,North,Auto,False,254,In Review,8150.55,65
+a69abad4-f3ca-487d-82da-bc4312216e5f,2023-09-12,North,Property,False,106,In Review,2861.17,80
+593cb066-061b-40ca-b5ba-77762a2f25f0,2023-09-12,West,Property,False,134,In Review,7690.25,59
+1cce2d88-6fad-4213-95a3-1e41ec6c4dda,2023-09-12,South,Property,True,64,Closed,4900.41,83
+3bfe1e42-d7c6-4f1c-8249-680065c656d6,2023-09-12,West,Property,True,242,Closed,2033.95,25
+876953b4-38f5-4a06-8676-dc1ff75b17c3,2023-09-12,South,Auto,True,154,Closed,3297.3,68
+c4807e2a-b6bc-4bc6-8b2d-a13fbaae907a,2023-10-12,East,Health,True,59,In Review,8364.14,28
+20f00329-56b7-486b-bc06-3356feaed69a,2023-10-12,West,Health,True,50,Open,3270.15,60
+4e9fd6fa-20eb-4d6d-862c-983832fe7b5e,2023-10-12,South,Auto,False,269,Open,3507.06,81
+163263b3-8f19-45fb-a2d9-60ab62acf3aa,2023-10-12,West,Property,True,148,Open,5138.61,43
+63c63ec6-6e5f-4ff3-a156-0da6e6f4c5fb,2023-10-12,North,Property,True,97,Open,7370.79,42
+7fd7084f-16ce-458a-b6d7-a4c9fa1edfbe,2023-10-12,North,Health,False,30,Open,4577.64,24
+a82fa309-4b8d-4832-af13-45f6f080c0f5,2023-10-12,South,Property,False,203,Open,2692.51,44
+72a4e888-07c9-41a2-a970-71d458f15a81,2023-10-12,North,Auto,False,272,Open,6670.84,37
+6b2110a6-bb4a-497e-a2a3-8fb8bf205ee4,2023-10-12,East,Property,False,172,Open,8143.82,54
+b4a9e9a2-f0b1-4096-a014-bf909d8b713d,2023-10-12,East,Property,False,266,Open,6214.27,83
+9cf98519-4ecd-4f74-8681-6e0e499fc468,2023-10-12,South,Auto,False,181,Closed,3119.63,60
+65ea7344-b03b-4061-9d8b-549fa7747735,2023-10-12,North,Property,False,212,Closed,2710.34,77
+323b7fe3-a314-478e-b4e9-ccb8f3f4149c,2023-10-12,East,Auto,False,64,Closed,9916.59,35
+6a2899ac-6de9-49ab-99dc-8def42b8b646,2023-10-12,South,Health,False,292,In Review,9148.66,78
+29dffae3-511a-46a7-96f8-c89ceb40a9c2,2023-11-12,East,Health,False,290,Closed,1905.8,75
+6643c789-709c-431e-b93a-a554574bf13d,2023-11-12,South,Health,True,195,Open,5623.07,66
+7a47ea0d-43c4-48a7-bfe6-3b2bd7a06407,2023-11-12,North,Health,False,57,Closed,6200.39,79
+806c57d4-82ec-4934-86fb-2eb68d78031d,2023-11-12,East,Health,False,154,Closed,9296.8,78
+6542b6b6-03d0-4140-a789-2c7b51030425,2023-11-12,North,Auto,True,86,In Review,2922.07,59
+30f10620-bde3-4d5a-a7f4-da0eba389fcf,2023-11-12,South,Auto,False,222,Closed,7635.22,54
+9b03a0bf-8fae-47dd-b524-2b9c53588d0e,2023-12-12,South,Property,False,292,Closed,9952.21,40
+e5ca25ad-2e0a-4482-9461-d7d93c9cd408,2023-12-12,South,Property,False,42,In Review,6353.27,67
+1907648d-8644-451e-b8eb-d8581ec0a257,2023-12-12,East,Property,False,194,In Review,9296.51,33
+10e649a2-0a3d-4202-a6fe-11bc71c3cb7a,2023-12-12,West,Health,False,259,Closed,9136.74,68
+bd2f715c-dcb5-4c62-b8c7-d6124256b030,2023-12-12,South,Property,False,78,Closed,4923.41,58
+21f28a65-7169-4191-a1d9-33d80834e6c7,2023-12-12,West,Property,False,275,Closed,5504.86,27
+2937d43b-e565-4a5a-a1d7-e8e6f3520008,2023-12-12,South,Property,False,49,Open,4863.65,67
